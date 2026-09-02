@@ -1,0 +1,1501 @@
+id,date,source,text,rating
+1,2023-08-12,amazon,Honestly the phone feels awful — Check this https://example.com/deal for details. Delivery was quick.,1
+2,2023-06-13,twitter,Just tried camera — amazing!    😊,5
+3,2023-02-14,amazon,Honestly the shoes feels awful — Check this https://example.com/deal for details.,1
+4,2023-02-16,amazon,My experience with course: excellent! Delivery was quick.,5
+5,2024-11-30,amazon,Honestly the mixer feels fantastic —  Contact @support was helpful #happy 😊,5
+6,2023-02-27,amazon,Honestly the app feels awesome — Check this https://example.com/deal for details.,5
+7,2024-10-20,twitter,Hating watch — great!  #review  😊,5
+8,2023-05-22,amazon,"Honestly the mixer feels wonderful — meh, visit www.shop.example?",5
+9,2024-06-25,amazon,I bought laptop last week and it is great. Check this https://example.com/deal for details.,5
+10,2023-09-27,twitter,Loving laptop — fine!    ,3
+11,2024-05-15,news,"cricket match was boring, Hyderabad FC won by 26 runs",2
+12,2023-05-09,twitter,Hating camera — poor! @user   😡,1
+13,2023-11-16,twitter,Just tried headphones — average!    ,3
+14,2024-10-08,twitter,,1
+15,2024-04-29,twitter,Loving shoes — fantastic! @user #review  😊,4
+16,2024-10-23,twitter,Hating camera — average! @user   ,3
+17,2023-03-19,twitter,Just tried shoes — horrible!  #review https://t.co/xyz 😡,1
+18,2024-05-07,twitter,Loving phone — fine!   https://t.co/xyz ,3
+19,2024-07-23,twitter,Loving headphones — horrible!    😡,1
+20,2024-05-29,amazon,Honestly the book feels wonderful — Contact @support was helpful #happy 😊 Delivery was quick.,5
+21,2024-09-26,news,"cricket match was decent, MI won by 9 runs ",3
+22,2024-04-13,twitter,Just tried course — mixed!    ,3
+23,2023-03-12,twitter,Loving book — fantastic!   https://t.co/xyz 😊,5
+24,2023-04-17,news,minister promised awesome reforms for phone,5
+25,2023-09-15,news,"the stadium crowd went wild, game was excellent",4
+26,2023-01-10,news,phone battery life is bad,2
+27,2023-02-10,twitter,Just tried phone — wonderful!   https://t.co/xyz 😊,4
+28,2024-02-27,news,Hyderabad FC played excellent football last night,4
+29,2024-04-16,twitter,Hating camera — disappointing!   https://t.co/xyz 😡,2
+30,2024-11-26,twitter,Loving phone — terrible!    😡,2
+31,2024-01-30,news,election debate on season was excellent SOOOO good!!! Loved it!!!,5
+32,2023-12-05,news,"the stadium crowd went wild, game was great",5
+33,2024-11-24,amazon,"meh, visit www.shop.example? Overall laptop is boring.",1
+34,2024-04-21,amazon,<p>Highly recooommended!</p> Overall headphones is mixed.,3
+35,2023-04-06,twitter,Just tried book — brilliant!    😊,5
+36,2023-07-19,news,"the stadium crowd went wild, game was terrible",1
+37,2023-06-30,amazon,"My experience with watch: average! Check this https://example.cooom/deal for details. meh, visit www.shop.example?",3
+38,2024-09-19,news,"the movie was fine, songs were fine",3
+39,2023-10-20,news,actor performance in phone felt awesome,5
+40,2024-04-22,twitter,Hating course — disappointing! @user #review  😡,1
+41,2023-12-27,twitter,,5
+42,2023-12-11,twitter,Hating course — horrible!    😡,1
+43,2024-03-14,amazon,My experience with watch: awesome! Check this https://example.com/deal for details.,5
+44,2024-03-07,twitter,Loving phone — okay!    ,3
+45,2023-02-01,twitter,Hating phone — fantastic!  #review  😊,4
+46,2023-04-28,news,"cricket match was wonderful, MI won by 61 runs",5
+47,2024-08-29,amazon,I bought headphones last week and it is boring. SOOOO good!!! Loved it!!! Contact @support was helpful #happy 😊,1
+48,2024-11-08,amazon, Overall camera is excellent.,5
+49,2023-06-06,twitter,Just tried shoes — decent! @user   ,3
+50,2023-09-09,twitter,Just tried mixer — decent!    ,3
+51,2023-09-22,news,laptop performance with policy is okay,3
+52,2024-05-17,twitter,Just tried phone — awful!  #review  😡,1
+53,2024-07-17,twitter,Loving mixer — amazing!    😊,5
+54,2023-08-10,twitter,Hating mixer — okay!  #review https://t.co/xyz ,3
+55,2023-02-16,amazon,Delivery was quick. Overall mixer is mixed.,3
+56,2023-03-08,news,parliament passed camera bill amid average protests,3
+57,2024-09-02,twitter,Just tried phone — fantastic! @user   😊,4
+58,2023-04-12,amazon,My experience with camera: decent! <p>Highly recommended!</p>,3
+59,2023-10-23,news,MI played awful football last night,2
+60,2024-10-25,amazon,Honestly the book feels fantastic — Contact @support was helpful #happy 😊,5
+61,2023-11-08,twitter,Loving laptop — awful! @user   😡,2
+62,2024-11-21,amazon,,3
+63,2023-04-04,news,laptop performance with battery is mixed,3
+64,2024-07-17,amazon,"meh, visit www.shop.example? Overall watch is disappointing. Check this https://example.com/deal for details.",1
+65,2024-02-28,twitter,Hating mixer — fantastic!    😊,5
+66,2024-05-11,twitter,Hating app — decent!    ,3
+67,2024-10-25,twitter,Just tried headphones — terrible!  #review  😡,2
+68,2023-03-13,news,"concert last night was decent, crowd decent",3
+69,2024-04-02,twitter,Hating course — bad!  #review  😡,1
+70,2024-02-25,amazon,My experience with shoes: disappointing! <p>Highly recommended!</p>,1
+71,2024-08-27,twitter,Just tried watch — average!    ,3
+72,2023-09-29,twitter,Hating laptop — excellent!    😊,5
+73,2024-07-08,twitter,Just tried laptop — horrible!    😡,1
+74,2023-11-03,twitter,Loving mixer — fantastic!    😊,4
+75,2024-01-27,news,laptop performance with season is great,5
+76,2024-11-24,amazon,Honestly the camera feels average — Check this https://example.com/deal for details.,3
+77,2024-05-09,amazon,SOOOO good!!! Loved it!!! Overall laptop is okay.,3
+78,2023-02-20,twitter,Just tried shoes — horrible!    😡,2
+79,2024-10-04,news,"concert last night was terrible, crowd terrible",2
+80,2024-07-06,amazon,I bought mixer last week and it is okay. SOOOO good!!! Loved it!!!,3
+81,2024-11-21,news,minister promised awesome reforms for season,4
+82,2023-04-21,news,election debate on battery was horrible,1
+83,2023-05-24,amazon,SOOOO good!!! Loved it!!! Overall book is amazing.,5
+84,2024-07-07,twitter,Hating book — great! @user #review  😊,5
+85,2023-08-30,twitter,Hating laptop — wonderful!    😊,4
+86,2024-09-03,news,laptop performance with album is fine,3
+87,2024-09-02,news,laptop performance with script is terrible,2
+88,2023-11-28,twitter,Loving course — wonderful!  #review  😊,4
+89,2024-05-30,twitter,Loving headphones — awful!    😡,2
+90,2024-03-30,twitter,Just tried course — great!   https://t.co/xyz 😊,5
+91,2023-10-29,twitter,Hating app — fantastic! @user #review  😊,5
+92,2024-04-07,amazon,I bought app last week and it is bad. ,2
+93,2023-03-29,news,"concert last night was okay, crowd okay",3
+94,2024-11-12,twitter,Just tried shoes — excellent!    😊,5
+95,2024-01-12,news,"the movie was boring, songs were boring",1
+96,2024-11-04,twitter,Just tried camera — awful!    😡,2
+97,2023-04-04,news,election debate on season was awesome ,5
+98,2023-02-23,amazon,My experience with camera: horrible! <p>Highly recommended!</p>,2
+99,2024-03-16,twitter,Just tried laptop — great!    😊,5
+100,2023-05-21,twitter,Hating course — mixed!  #review  ,3
+101,2024-11-15,amazon,I bought mixer last week and it is disappointing. Delivery was quick.,1
+102,2023-01-22,news,software update fixed match but battery still great,5
+103,2023-06-22,news,coach praised RCB after poor victory,2
+104,2023-09-20,twitter,Just tried course — excellent! @user   😊,5
+105,2024-08-01,twitter,Just tried laptop — wonderful! @user   😊,5
+106,2023-03-17,amazon,Check this https://example.com/deal for details. Overall app is disappointing.,2
+107,2024-08-17,twitter,Loving phone — okay!    ,3
+108,2023-03-28,amazon,Honestly the phone feels okay — Contact @support was helpful #happy 😊,3
+109,2024-02-23,amazon,"Honestly the headphones feels great — meh, visit www.shop.example?",5
+110,2024-09-09,amazon,Delivery was quick. Overall app is great.,5
+111,2023-05-11,news,election debate on script was mixed,3
+112,2023-08-20,amazon,My experience with course: fantastic! SOOOO good!!! Loved it!!!,4
+113,2024-10-01,news,"cricket match was boring, Hyderabad FC won by 70 runs Contact @support was helpful #happy 😊",1
+114,2024-04-25,news,coach praised CSK after great victory,5
+115,2023-02-23,news,"the stadium crowd went wild, game was mixed",3
+116,2023-05-31,amazon,"I bought shoes last week and it is fine. meh, visit www.shop.example?",3
+117,2023-04-12,news,the new AI startup raised funding for album,3
+118,2023-06-03,news,,5
+119,2023-03-06,amazon,My experience with app: decent! Delivery was quick.,3
+120,2024-03-02,twitter,Just tried course — average! @user   ,3
+121,2024-10-12,twitter,Just tried shoes — fantastic! @user   😊,5
+122,2023-05-17,twitter,Hating phone — poor!  #review  😡,1
+123,2024-04-13,twitter,Hating headphones — fine!    ,3
+124,2024-10-24,twitter,Loving camera — brilliant!    😊,5
+125,2023-07-11,twitter,Loving shoes — poor!    😡,1
+126,2023-03-23,amazon, Overall book is poor. <p>Highly recommended!</p>,2
+127,2024-03-21,twitter,Hating book — boring!    😡,1
+128,2023-02-05,twitter,Loving watch — great!    😊,5
+129,2023-03-20,twitter,Just tried shoes — terrible!   https://t.co/xyz 😡,1
+130,2024-07-29,amazon,My experience with course: poor! Contact @support was helpful #happy 😊,2
+131,2023-06-26,twitter,Just tried book — awful!    😡,1
+132,2024-01-06,news,"the movie was disappointing, songs were disappointing",2
+133,2024-09-18,amazon,Hooonestly the laptop feels brilliant — Check this https://example.com/deal for details.,5
+134,2023-12-19,news,laptop performance with phone is horrible,2
+135,2023-06-18,twitter,Just tried app — fine! @user   ,3
+136,2024-06-30,twitter,Hating course — terrible!    😡,1
+137,2023-01-30,twitter,Just tried app — awesome! @user   😊,5
+138,2024-05-09,twitter,Hating camera — mixed!    ,3
+139,2023-11-23,twitter,Hating book — horrible! @user #review  😡,1
+140,2023-04-10,amazon,Honestly the shoes feels horrible — ,1
+141,2024-05-25,twitter,Just tried watch — horrible!   https://t.co/xyz 😡,1
+142,2024-10-31,news,actor performance in phone felt boring,1
+143,2024-08-06,amazon,I bought mixer last week and it is fine.  Check this https://example.com/deal for details.,3
+144,2023-05-12,amazon,Delivery was quick. Overall shoes is fine.,3
+145,2024-06-15,news,"concert last night was disappointing, crowd disappointing",1
+146,2024-06-03,amazon,Honestly the app feels decent — Contact @support was helpful #happy 😊,3
+147,2024-04-30,news,"concert last night was average, crowd average",3
+148,2024-11-28,twitter,Just tried camera — mixed!   https://t.co/xyz ,3
+149,2024-04-27,twitter,Just tried laptop — mixed! @user   ,3
+150,2024-11-28,news,the new AI startup raised funding for policy,3
+151,2024-05-15,amazon,Honestly the mixer feels average — Check this https://example.com/deal for details.,3
+152,2023-05-30,twitter,Just tried mixer — poor!    😡,1
+153,2023-10-06,twitter,Just tried laptop — boring!    😡,1
+154,2024-11-28,twitter,Loving camera — mixed! @user   ,3
+155,2023-10-20,amazon,Honestly the phone feels fine — <p>Highly recommended!</p>,3
+156,2023-02-07,amazon,Honestly the laptop feels mixed — SOOOO good!!! Loved it!!!,3
+157,2024-05-20,news,actor performance in season felt awesome,5
+158,2024-11-21,news,coach praised India after awful victory,1
+159,2023-01-07,amazon,My experience with headphones: horrible! SOOOO good!!! Loved it!!!,2
+160,2023-05-02,twitter,Hating mixer — terrible!    😡,2
+161,2024-09-12,amazon,"meh, visit www.shop.example? Overall headphones is horrible. Contact @support was helpful #happy 😊",2
+162,2024-06-24,twitter,Hating course — fine!    ,3
+163,2024-03-28,amazon,I bought laptop last week and it is mixed. Delivery was quick.,3
+164,2024-07-26,twitter,Just tried app — brilliant!    😊,4
+165,2023-03-03,amazon,My experience with mixer: amazing! Contact @support was helpful #happy 😊,5
+166,2024-01-22,news,software update fixed season but battery still great,5
+167,2023-11-02,twitter,Loving shoes — fine! @user   ,3
+168,2023-02-02,amazon,My experience with course: bad! ,1
+169,2024-07-06,news,"the movie was terrible, songs were terrible SOOOO good!!! Loved it!!!",1
+170,2023-08-31,twitter,Loving course — great!  #review  😊,5
+171,2024-03-13,twitter,Just tried course — wonderful!   https://t.co/xyz 😊,5
+172,2023-09-04,amazon,My experience with phone: poor! ,1
+173,2024-01-15,news,parliament passed battery bill amid okay protests,3
+174,2023-08-11,twitter,Loving mixer — brilliant!   https://t.co/xyz 😊,4
+175,2024-09-10,amazon,I bought shoes last week and it is boring. Check this https://example.com/deal for details.,2
+176,2024-04-22,amazon, Overall watch is terrible.,1
+177,2024-08-16,twitter,Hating camera — average!    ,3
+178,2024-05-15,amazon,Honestly the mixer feels wonderful — Contact @support was helpful #happy 😊,4
+179,2023-03-18,news,actor performance in album felt awesome,5
+180,2024-11-06,news,phone battery life is bad SOOOO good!!! Loved it!!!,2
+181,2023-07-03,amazon,"My experience with phone: fine! Delivery was quick. meh, visit www.shop.example?",3
+182,2024-04-15,twitter,Just tried headphones — excellent!    😊,5
+183,2024-10-14,amazon,"I bought camera last week and it is boring. meh, visit www.shop.example?",1
+184,2023-08-24,twitter,Loving book — awesome!    😊,5
+185,2023-11-19,twitter,Hating mixer — mixed! @user #review  ,3
+186,2024-02-03,twitter,Just tried headphones — brilliant!    😊,4
+187,2023-04-11,amazon,My experience with course: disappointing! ,1
+188,2024-05-17,twitter,Hating app — fantastic!    😊,5
+189,2023-10-02,twitter,Hating watch — fine! @user   ,3
+190,2023-07-11,twitter,Just tried watch — wonderful!  #review https://t.co/xyz 😊,4
+191,2023-10-26,twitter,Just tried course — fine!  #review  ,3
+192,2024-05-19,twitter,Just tried course — fantastic!    😊,4
+193,2023-07-20,twitter,Hating mixer — awesome!   https://t.co/xyz 😊,4
+194,2024-10-28,amazon,I bought headphones last week and it is boring. <p>Highly recommended!</p>,1
+195,2023-09-06,news,"the stadium crowd went wild, game was disappointing",2
+196,2024-04-17,twitter,Hating shoes — awful! @user   😡,2
+197,2024-09-04,news,coach praised RCB after boring victory,2
+198,2023-09-12,amazon,My experience with watch: fine! SOOOO good!!! Loved it!!! Contact @support was helpful #happy 😊,3
+199,2023-01-11,amazon,I bought shoes last week and it is awesome. SOOOO good!!! Loved it!!!,5
+200,2023-06-04,twitter,Just tried course — terrible!    😡,1
+201,2023-07-31,twitter,Hating laptop — amazing!   https://t.co/xyz 😊,5
+202,2023-12-18,amazon,I bought shoes last week and it is average. <p>Highly recommended!</p>,3
+203,2024-11-04,amazon,Honestly the headphones feels terrible — SOOOO good!!! Loved it!!! SOOOO good!!! Loved it!!!,2
+204,2023-03-06,twitter,Just tried app — amazing!    😊,4
+205,2024-09-17,amazon,Contact @support was helpful #happy 😊 Overall course is awesome. Delivery was quick.,5
+206,2023-05-18,twitter,Hating shoes — excellent!    😊,5
+207,2024-10-12,twitter,Hating laptop — terrible! @user   😡,1
+208,2024-05-11,amazon,Honestly the headphones feels fine — <p>Highly recommended!</p>,3
+209,2023-08-14,twitter,Just tried course — horrible!    😡,1
+210,2023-10-02,twitter,Loving course — awful!    😡,1
+211,2023-11-01,amazon,I bought shoes last week and it is fine. ,3
+212,2024-10-09,news,software update fixed album but battery still awful,1
+213,2024-08-09,twitter,Loving camera — wonderful!    😊,5
+214,2023-05-16,twitter,Just tried laptop — decent! @user   ,3
+215,2023-04-06,twitter,Loving watch — disappointing!    😡,1
+216,2024-10-12,twitter,Just tried shoes — awful!    😡,2
+217,2023-05-14,amazon,My experience with shoes: fantastic! Check this https://example.com/deal for details.,5
+218,2024-03-14,amazon,I bought book last week and it is disappointing. Delivery was quick. ,2
+219,2023-06-19,twitter,Just tried mixer — wonderful! @user   😊,5
+220,2024-03-31,twitter,Just tried camera — boring!  #review https://t.co/xyz 😡,1
+221,2023-11-03,twitter,Loving watch — disappointing!    😡,2
+222,2024-02-26,twitter,Just tried headphones — wonderful! @user   😊,4
+223,2023-10-11,amazon,I bought book last week and it is brilliant. Delivery was quick. Delivery was quick.,5
+224,2023-07-13,amazon, Overall camera is fine.,3
+225,2024-01-05,amazon,,5
+226,2023-02-10,news,coach praised CSK after mixed victory,3
+227,2023-06-09,news,"concert last night was decent, crowd decent",3
+228,2024-04-09,amazon,I bought watch last week and it is mixed. Contact @support was helpful #happy 😊,3
+229,2023-09-23,amazon,Honestly the phone feels boring — Delivery was quick. Check this https://example.com/deal for details.,2
+230,2024-08-13,twitter,Just tried mixer — wonderful!  #review  😊,4
+231,2023-04-29,amazon,Delivery was quick. Overall book is okay.,3
+232,2023-02-06,twitter,Loving phone — decent!  #review https://t.co/xyz ,3
+233,2023-02-23,amazon,Check this https://example.com/deal for details. Overall watch is terrible.,1
+234,2023-07-25,twitter,,3
+235,2023-09-09,twitter,Just tried app — boring!    😡,2
+236,2023-11-11,twitter,Loving camera — bad!    😡,1
+237,2024-06-16,twitter,Loving watch — decent!  #review  ,3
+238,2023-05-14,twitter,Hating laptop — poor!    😡,1
+239,2024-08-21,twitter,Hating watch — awful!    😡,1
+240,2023-05-03,twitter,Loving book — excellent!    😊,5
+241,2024-11-24,twitter,Just tried app — boring! @user   😡,1
+242,2023-03-05,twitter,Loving watch — awesome!    😊,4
+243,2023-05-12,news,CSK played brilliant football last night,4
+244,2024-03-12,twitter,Loving phone — disappointing!  #review  😡,2
+245,2024-07-17,twitter,Loving mixer — brilliant!   https://t.co/xyz 😊,5
+246,2023-01-20,amazon,My experience with laptop: awful! Check this https://example.com/deal for details.,1
+247,2023-10-15,news,,3
+248,2023-02-27,twitter,Just tried shoes — average!    ,3
+249,2024-01-03,amazon,My experience with camera: mixed! Contact @support was helpful #happy 😊,3
+250,2023-02-27,news,laptop performance with budget is mixed,3
+251,2023-11-28,twitter,Loving course — terrible!    😡,1
+252,2023-04-14,twitter,Just tried headphones — wonderful!    😊,5
+253,2024-09-20,twitter,Loving headphones — disappointing!    😡,1
+254,2024-02-05,amazon,Honestly the camera feels mixed — <p>Highly recommended!</p>,3
+255,2023-04-01,news,the new AI startup raised funding for budget,1
+256,2023-06-20,news,voters reacted amazing to new season policy,5
+257,2023-02-04,news,actor performance in laptop felt poor,1
+258,2024-08-31,twitter,Hating laptop — disappointing! @user #review  😡,1
+259,2023-09-29,news,"the movie was bad, songs were bad Contact @support was helpful #happy 😊",2
+260,2024-11-08,amazon,,1
+261,2024-05-15,amazon,"I bought book last week and it is brilliant. Delivery was quick. meh, visit www.shop.example?",4
+262,2023-03-05,news,election debate on match was fine,3
+263,2024-07-02,twitter,Loving shoes — excellent!    😊,4
+264,2024-08-08,amazon,Honestly the book feels mixed — <p>Highly recommended!</p>,3
+265,2023-03-22,amazon,I bought app last week and it is wonderful. ,4
+266,2024-09-30,news,new web series on budget is wonderful SOOOO good!!! Loved it!!!,4
+267,2023-10-20,amazon,My experience with watch: excellent! Check this https://example.com/deal for details. SOOOO good!!! Loved it!!!,5
+268,2024-02-10,news,voters reacted awful to new match policy,2
+269,2023-08-22,news,parliament passed phone bill amid great protests,4
+270,2024-06-12,twitter,Hating mixer — okay!   https://t.co/xyz ,3
+271,2023-03-01,news,"I love the camera quality, pictures look awesome",5
+272,2024-01-17,twitter,Loving shoes — okay!    ,3
+273,2023-01-29,amazon,My experience with book: awesome! SOOOO good!!! Loved it!!!,5
+274,2024-11-29,twitter,,4
+275,2024-03-09,twitter,Just tried headphones — wonderful!  #review  😊,5
+276,2024-01-19,news,voters reacted awful to new policy policy,1
+277,2024-10-29,amazon,"meh, visit www.shop.example? Overall app is boring. Delivery was quick.",1
+278,2024-11-02,twitter,Just tried camera — wonderful!    😊,5
+279,2023-08-16,amazon,My experience with mixer: awful! <p>Highly recooommended!</p>,1
+280,2024-07-26,amazon," Overall book is poor. meh, visit www.shop.example?",1
+281,2023-10-29,amazon,I bought headphones last week and it is disappointing. Check this https://example.com/deal for details.,2
+282,2024-11-28,amazon,I bought laptop last week and it is average. ,3
+283,2023-05-27,twitter,Hating phone — boring!  #review  😡,2
+284,2024-08-13,twitter,Loving book — awesome!    😊,4
+285,2024-01-18,amazon,,5
+286,2023-10-25,news,parliament passed battery bill amid amazing protests,5
+287,2024-02-18,amazon,<p>Highly recommended!</p> Overall course is decent.,3
+288,2024-10-17,twitter,Just tried headphones — terrible!  #review  😡,2
+289,2023-05-07,twitter,Just tried phone — fine!  #review https://t.co/xyz ,3
+290,2023-05-21,amazon,"Hooonestly the book feels wonderful — meh, visit www.shop.example?",5
+291,2023-07-26,twitter,Just tried app — excellent! @user #review https://t.co/xyz 😊,4
+292,2023-04-24,twitter,,1
+293,2023-02-10,news,new web series on laptop is fantastic,5
+294,2023-04-06,news,minister promised bad reforms for camera,1
+295,2023-06-20,twitter,Loving laptop — disappointing!    😡,2
+296,2023-01-30,twitter,Loving laptop — great!    😊,5
+297,2024-08-01,news,"coach praised RCB after average victory meh, visit www.shop.example?",3
+298,2023-06-02,twitter,Just tried course — disappointing!    😡,1
+299,2024-01-23,news,phone battery life is awesome <p>Highly recommended!</p>,4
+300,2023-01-19,twitter,Loving book — terrible!   https://t.co/xyz 😡,1
+301,2024-11-01,twitter,Loving course — bad!    😡,2
+302,2024-04-08,amazon,I bought shoes last week and it is poor. ,2
+303,2024-05-19,twitter,Loving shoes — terrible!    😡,1
+304,2023-04-21,twitter,Loving mixer — bad!  #review  😡,1
+305,2023-02-19,amazon,,3
+306,2024-11-04,amazon,My experience with watch: mixed! SOOOO good!!! Loved it!!!,3
+307,2024-04-08,amazon,My experience with shoes: decent! <p>Highly recommended!</p>,3
+308,2024-10-27,news,coach praised Hyderabad FC after decent victory,3
+309,2024-03-08,news,"the stadium crowd went wild, game was excellent",5
+310,2023-10-30,news,phone battery life is horrible,2
+311,2023-09-01,twitter,Loving shoes — fine!  #review  ,3
+312,2023-07-27,amazon,My experience with mixer: great! <p>Highly recommended!</p>,5
+313,2024-11-30,amazon, Overall book is terrible.,2
+314,2024-04-22,twitter,,4
+315,2024-07-17,amazon,Honestly the headphones feels great — Contact @support was helpful #happy 😊,5
+316,2023-08-07,twitter,Just tried camera — disappointing!    😡,1
+317,2023-04-28,amazon,Check this https://example.com/deal for details. Overall shoes is poor.,1
+318,2023-10-17,amazon,Honestly the book feels terrible — Delivery was quick.,2
+319,2023-06-21,twitter,Hating course — decent!   https://t.co/xyz ,3
+320,2023-06-07,news,phone battery life is brilliant,5
+321,2024-04-06,twitter,Loving laptop — disappointing! @user #review  😡,2
+322,2023-03-16,amazon,I bought watch last week and it is disappointing. <p>Highly recommended!</p>,2
+323,2024-04-30,twitter,Loving mixer — decent!   https://t.co/xyz ,3
+324,2024-10-25,twitter,Loving watch — terrible!    😡,1
+325,2023-12-19,twitter,Just tried course — amazing! @user #review  😊,5
+326,2024-07-16,twitter,Loving headphones — decent! @user   ,3
+327,2023-08-29,amazon,"meh, visit www.shop.example? Overall course is fantastic. Delivery was quick.",5
+328,2024-03-14,twitter,Loving shoes — fantastic!    😊,5
+329,2024-04-01,twitter,Loving camera — disappointing!    😡,2
+330,2024-10-03,twitter,Hating course — boring! @user  https://t.co/xyz 😡,2
+331,2024-07-06,twitter,Loving course — fantastic!    😊,5
+332,2024-01-08,amazon,My experience with headphones: poor! Check this https://example.com/deal for details.,1
+333,2024-01-03,amazon,Honestly the camera feels awesome — <p>Highly recommended!</p> SOOOO good!!! Loved it!!!,5
+334,2023-02-17,twitter,Loving laptop — average!  #review  ,3
+335,2024-08-24,twitter,Loving course — disappointing!    😡,1
+336,2024-09-10,amazon,<p>Highly recommended!</p> Overall laptop is decent.,3
+337,2024-11-07,twitter,Hating headphones — wonderful!    😊,4
+338,2024-08-10,twitter,,2
+339,2023-01-20,amazon,I bought headphones last week and it is decent. SOOOO good!!! Loved it!!! Check this https://example.com/deal for details.,3
+340,2024-11-06,news,election debate on phone was brilliant,5
+341,2024-05-31,amazon,My experience with headphones: disappointing! SOOOO good!!! Loved it!!!,1
+342,2024-11-06,amazon,Honestly the headphones feels excellent — <p>Highly recommended!</p>,5
+343,2024-01-26,twitter,Loving watch — fine!   https://t.co/xyz ,3
+344,2023-07-13,twitter,Loving watch — mixed! @user   ,3
+345,2024-10-29,twitter,Just tried course — amazing! @user #review  😊,5
+346,2024-05-09,amazon,My experience with mixer: fine! SOOOO good!!! Loved it!!!,3
+347,2023-08-24,twitter,Just tried book — fine!    ,3
+348,2024-10-13,twitter,Loving camera — awesome!    😊,5
+349,2024-02-15,twitter,Loving book — fantastic!   https://t.co/xyz 😊,4
+350,2023-10-20,amazon,I bought course last week and it is boring. ,1
+351,2024-02-14,twitter,Just tried camera — decent!    ,3
+352,2024-08-19,twitter,Hating app — horrible!  #review  😡,1
+353,2024-05-30,twitter,Loving app — awful!    😡,1
+354,2023-12-14,twitter,Just tried mixer — excellent!    😊,5
+355,2023-12-28,news,"actor performance in battery felt mixed meh, visit www.shop.example?",3
+356,2023-08-12,amazon,"Honestly the phone feels awful — Contact @support was helpful #happy 😊 meh, visit www.shop.example?",1
+357,2023-04-20,news,parliament passed phone bill amid brilliant protests,4
+358,2024-08-11,twitter,Just tried book — fantastic!    😊,4
+359,2023-06-28,news,new web series on season is decent,3
+360,2023-09-23,amazon,My experience with laptooop: decent! Contact @support was helpful #happy 😊,3
+361,2024-02-15,twitter,Loving mixer — awful!    😡,1
+362,2023-07-20,twitter,Just tried headphones — awesome!    😊,5
+363,2023-11-04,twitter,Hating phone — wonderful! @user   😊,5
+364,2023-09-24,twitter,Loving watch — mixed! @user #review  ,3
+365,2024-07-05,twitter,Just tried mixer — fine!    ,3
+366,2023-05-29,twitter,Hating shoes — boring!    😡,1
+367,2024-03-31,news,voters reacted mixed to new match policy,3
+368,2023-03-23,amazon,My experience with shoooes: mixed! <p>Highly recommended!</p> ,3
+369,2023-09-26,twitter,Loving laptop — horrible! @user   😡,1
+370,2024-11-10,amazon,Check this https://example.com/deal for details. Overall laptop is horrible.,1
+371,2024-09-03,twitter,Hating book — disappointing!    😡,2
+372,2023-01-11,amazon,Contact @support was helpful #happy 😊 Overall app is bad.,1
+373,2023-10-27,twitter,,5
+374,2024-01-23,amazon,Check this https://example.com/deal for details. Overall phone is fine.,3
+375,2023-10-03,twitter,Hating camera — fantastic!    😊,5
+376,2023-02-20,twitter,,4
+377,2024-05-25,news,the new AI startup raised funding for season,4
+378,2023-01-13,news,"the movie was disappointing, songs were disappointing",1
+379,2024-02-03,twitter,Hating book — terrible!   https://t.co/xyz 😡,1
+380,2024-01-05,amazon,"Honestly the mixer feels disappointing — meh, visit www.shop.example?",1
+381,2024-05-01,news,"cricket match was terrible, CSK won by 2 runs",1
+382,2023-12-31,amazon,I bought headphones last week and it is poor. Check this https://example.com/deal for details. Delivery was quick.,2
+383,2023-07-17,amazon,Honestly the course feels excellent — <p>Highly recommended!</p>,5
+384,2024-07-10,twitter,Hating headphones — horrible!  #review  😡,1
+385,2023-01-01,twitter,Hating app — okay!   https://t.co/xyz ,3
+386,2024-02-01,amazon,Honestly the course feels horrible — Delivery was quick.,1
+387,2023-05-13,twitter,Just tried headphones — average!    ,3
+388,2023-09-20,twitter,Loving laptop — great!  #review  😊,5
+389,2024-01-05,twitter,Just tried laptop — terrible! @user   😡,2
+390,2024-06-15,amazon,I bought watch last week and it is poor. ,2
+391,2023-04-19,twitter,Just tried watch — terrible! @user   😡,1
+392,2023-06-11,amazon,"My experience with app: poor! meh, visit www.shop.example?",1
+393,2023-11-28,amazon,Contact @support was helpful #happy 😊 Overall app is okay.,3
+394,2023-02-05,amazon,Honestly the app feels fine — <p>Highly recommended!</p>,3
+395,2024-06-07,news,"I love the camera quality, pictures look wonderful",5
+396,2023-11-04,amazon,I bought app last week and it is wonderful. Delivery was quick.,4
+397,2023-04-08,twitter,Just tried camera — horrible!    😡,2
+398,2023-05-04,amazon,My experience with mixer: great! Delivery was quick.,4
+399,2024-02-07,news,"cricket match was horrible, CSK won by 68 runs",2
+400,2024-03-20,news,the new AI startup raised funding for season,1
+401,2023-03-15,amazon,My experience with headphones: wonderful! SOOOO good!!! Loved it!!! <p>Highly recommended!</p>,4
+402,2023-11-09,twitter,Hating app — bad! @user   😡,1
+403,2023-03-29,twitter,Just tried book — poor!    😡,2
+404,2023-01-24,twitter,Loving app — great!    😊,4
+405,2024-01-21,twitter,Loving camera — fine!    ,3
+406,2024-02-02,amazon,,5
+407,2023-11-20,amazon,I bought shoes last week and it is excellent. Contact @support was helpful #happy 😊,4
+408,2024-05-16,amazon,I bought app last week and it is fine. Check this https://example.com/deal for details. <p>Highly recommended!</p>,3
+409,2023-09-21,twitter,Loving shoes — awesome!    😊,5
+410,2023-08-21,news,"I love the camera quality, pictures look awful",2
+411,2023-07-27,twitter,Loving watch — mixed!    ,3
+412,2023-11-23,news,parliament passed script bill amid bad protests SOOOO good!!! Loved it!!!,1
+413,2024-09-02,news,actooor performance in phone felt boring Check this https://example.com/deal for details.,2
+414,2024-05-18,twitter,Hating laptop — amazing!    😊,5
+415,2023-07-27,amazon,Honestly the headphones feels brilliant — Delivery was quick.,5
+416,2024-09-14,amazon,My experience with laptop: awesome! ,5
+417,2023-04-22,amazon,My experience with watch: disappointing! SOOOO good!!! Loved it!!!,2
+418,2023-11-08,amazon,"My experience with phone: terrible! meh, visit www.shop.example? <p>Highly recommended!</p>",1
+419,2023-04-03,amazon,Honestly the mixer feels okay — <p>Highly recommended!</p>,3
+420,2024-04-10,amazon,Honestly the laptop feels awesome — <p>Highly recommended!</p>,4
+421,2024-06-07,twitter,Just tried headphones — disappointing!  #review https://t.co/xyz 😡,1
+422,2023-07-03,amazon,My experience with headphones: horrible! Delivery was quick.,2
+423,2023-01-04,amazon,Contact @support was helpful #happy 😊 Overall phone is bad.,1
+424,2024-05-02,amazon,My experience with mixer: amazing! <p>Highly recommended!</p>,4
+425,2023-02-26,amazon,I bought book last week and it is fantastic. Check this https://example.com/deal for details.,5
+426,2023-06-15,amazon,"I bought phone last week and it is wonderful. meh, visit www.shop.example?",4
+427,2023-03-11,amazon,Honestly the app feels mixed — <p>Highly recommended!</p>,3
+428,2023-03-01,amazon,"<p>Highly recommended!</p> Overall course is fantastic. meh, visit www.shop.example?",4
+429,2024-08-11,twitter,Loving book — decent!    ,3
+430,2024-04-21,news,parliament passed phone bill amid mixed protests,3
+431,2023-03-11,amazon,My experience with laptop: brilliant! <p>Highly recommended!</p> Contact @support was helpful #happy 😊,5
+432,2023-07-18,twitter,Just tried shoes — decent!  #review  ,3
+433,2023-12-10,twitter,Just tried book — disappointing!    😡,2
+434,2023-12-29,amazon,SOOOO good!!! Loved it!!! Overall watch is great.,5
+435,2023-11-12,twitter,Hating phone — wonderful!    😊,4
+436,2024-01-19,amazon,<p>Highly recommended!</p> Overall shoes is great. Check this https://example.com/deal for details.,5
+437,2023-11-14,amazon,My experience with camera: fantastic! SOOOO good!!! Loved it!!! <p>Highly recommended!</p>,4
+438,2024-08-31,amazon,,5
+439,2023-11-23,news,voters reacted great to new camera policy,5
+440,2023-11-23,amazon,Hooonestly the laptop feels awful — Check this https://example.com/deal for details.,1
+441,2023-02-21,twitter,,1
+442,2023-12-07,twitter,Loving watch — great!    😊,5
+443,2024-09-23,news,software update fixed script but battery still mixed,3
+444,2023-12-26,twitter,Hating headphones — poor!    😡,1
+445,2023-03-14,amazon,SOOOO good!!! Loved it!!! Overall headphones is boring.,2
+446,2024-08-28,amazon,My experience with course: okay! SOOOO good!!! Loved it!!!,3
+447,2024-08-29,twitter,Just tried shoes — bad!  #review  😡,2
+448,2024-01-24,amazon,I bought shoes last week and it is fine. ,3
+449,2024-06-28,twitter,Loving camera — great!    😊,5
+450,2023-12-19,twitter,Hating camera — mixed!    ,3
+451,2023-10-16,news,"I love the camera quality, pictures look decent",3
+452,2024-01-04,news,coach praised CSK after mixed victory,3
+453,2024-03-01,news,"the stadium crowd went wild, game was wonderful",5
+454,2024-05-28,news,new web series on laptop is okay,3
+455,2024-06-23,twitter,Just tried shoes — fine! @user #review  ,3
+456,2024-08-16,news,voters reacted decent to new camera policy,3
+457,2023-10-29,twitter,Hating course — great!    😊,5
+458,2023-10-26,twitter,Just tried app — great!    😊,4
+459,2023-04-25,news,,3
+460,2023-12-18,amazon,My experience with app: wonderful! Contact @support was helpful #happy 😊,5
+461,2023-04-29,news,RCB played average football last night,3
+462,2023-05-29,twitter,Hating book — okay!    ,3
+463,2024-10-14,amazon, Overall watch is amazing.,5
+464,2024-11-19,twitter,Just tried mixer — bad!   https://t.co/xyz 😡,1
+465,2023-04-11,amazon,,3
+466,2023-08-11,amazon,"Honestly the book feels poor — meh, visit www.shop.example?",1
+467,2023-03-19,news,phone battery life is fantastic,4
+468,2023-09-29,amazon,Contact @support was helpful #happy 😊 Overall mixer is bad. Delivery was quick.,1
+469,2024-03-28,twitter,Hating camera — fantastic!  #review  😊,4
+470,2023-02-08,amazon,I bought laptop last week and it is great. Delivery was quick.,5
+471,2023-03-13,amazon,<p>Highly recommended!</p> Overall mixer is wonderful.,5
+472,2024-10-24,amazon,My experience with phone: horrible! Delivery was quick.,2
+473,2023-11-03,twitter,Hating laptop — fine!    ,3
+474,2023-09-02,amazon,,1
+475,2023-02-13,amazon,<p>Highly recommended!</p> Overall laptop is fine.,3
+476,2023-05-25,twitter,Just tried course — brilliant!    😊,4
+477,2024-04-12,amazon,I bought phone last week and it is average. Check this https://example.com/deal for details.,3
+478,2024-11-25,amazon,I bought app last week and it is fantastic. Delivery was quick.,4
+479,2023-10-08,twitter,Just tried app — excellent!    😊,4
+480,2023-06-11,twitter,Loving shoes — bad!    😡,1
+481,2024-05-02,twitter,Loving phone — average! @user   ,3
+482,2024-09-18,amazon,SOOOO good!!! Loved it!!! Overall camera is wonderful.,4
+483,2024-04-20,news,minister promised bad reforms for battery SOOOO good!!! Loved it!!!,2
+484,2023-02-14,amazon,I bought camera last week and it is awful. Check this https://example.com/deal for details. Check this https://example.com/deal for details.,1
+485,2023-06-30,twitter,Hating camera — poor!    😡,1
+486,2023-11-30,twitter,Hating course — amazing! @user   😊,5
+487,2024-03-22,twitter,Hating camera — excellent! @user   😊,5
+488,2024-08-05,twitter,Loving watch — okay!   https://t.co/xyz ,3
+489,2024-09-18,twitter,Loving book — wonderful!  #review  😊,5
+490,2024-03-20,news,"cricket match was bad, RCB won by 28 runs",1
+491,2024-05-05,amazon,I booought app last week and it is wonderful. <p>Highly recommended!</p>,5
+492,2023-01-17,news,software update fixed policy but battery still average,3
+493,2023-07-09,amazon,My experience with mixer: awesome! ,5
+494,2024-09-19,amazon,I bought shoes last week and it is okay. ,3
+495,2024-04-21,amazon,"meh, visit www.shop.example? Overall camera is fantastic.",5
+496,2023-04-27,amazon,"Honestly the shoes feels poor — meh, visit www.shop.example?",1
+497,2024-05-12,amazon,Honestly the app feels brilliant — Contact @support was helpful #happy 😊,5
+498,2024-04-13,amazon,<p>Highly recommended!</p> Overall laptop is average.,3
+499,2024-10-04,twitter,Loving mixer — horrible!  #review https://t.co/xyz 😡,1
+500,2023-08-26,twitter,Just tried course — bad!    😡,1
+501,2023-11-10,news,voters reacted mixed to new album policy,3
+502,2023-06-14,twitter,Loving book — awful!    😡,1
+503,2024-08-11,amazon,Honestly the mixer feels awesome — ,5
+504,2024-06-30,twitter,Hating headphones — awful!    😡,1
+505,2024-10-24,twitter,Hating book — amazing!    😊,4
+506,2023-05-23,amazon,Honestly the book feels boring — ,2
+507,2024-06-23,amazon,I bought laptop last week and it is boring. <p>Highly recommended!</p>,1
+508,2024-09-09,twitter,Loving phone — awful! @user   😡,2
+509,2024-04-01,amazon,My experience with phone: poor! Check this https://example.com/deal for details.,1
+510,2023-03-30,news,the new AI startup raised funding for match,3
+511,2024-02-29,twitter,Hating course — boring!  #review  😡,1
+512,2024-08-22,twitter,Just tried app — okay!  #review https://t.co/xyz ,3
+513,2024-11-12,twitter,Just tried book — fine!   https://t.co/xyz ,3
+514,2023-09-22,news,new web series on policy is average,3
+515,2023-05-19,amazon,SOOOO gooood!!! Loved it!!! Overall book is excellent.,4
+516,2024-10-05,twitter,Hating shoes — great!    😊,4
+517,2023-04-09,twitter,Just tried headphones — excellent!    😊,5
+518,2023-06-08,amazon,I bought shoes last week and it is wonderful. Check this https://example.com/deal for details.,5
+519,2024-01-07,amazon,I bought camera last week and it is fine. <p>Highly recommended!</p>,3
+520,2023-05-26,twitter,Just tried course — okay!    ,3
+521,2024-03-17,amazon,,5
+522,2023-05-07,twitter,,4
+523,2024-09-19,news,India played awesome football last night,5
+524,2023-01-05,twitter,Loving laptop — mixed!    ,3
+525,2023-08-22,news,the new AI startup raised funding for phone,3
+526,2023-04-29,twitter,Loving book — disappointing! @user #review  😡,1
+527,2024-05-02,twitter,Just tried mixer — okay!    ,3
+528,2023-06-22,news,parliament passed phone bill amid amazing protests,4
+529,2024-08-18,twitter,Hating camera — brilliant!   https://t.co/xyz 😊,5
+530,2023-09-14,amazon,"My experience with watch: poor! meh, visit www.shop.example?",1
+531,2023-12-01,amazon,I bought camera last week and it is wonderful. Delivery was quick.,5
+532,2024-07-07,twitter,Loving course — excellent!    😊,5
+533,2023-11-07,amazon,I bought phone last week and it is bad. <p>Highly recommended!</p>,1
+534,2024-07-29,news,coach praised CSK after bad victory,1
+535,2024-01-11,news,software update fixed phone but battery still awful,1
+536,2023-11-16,twitter,Loving shoes — mixed!    ,3
+537,2023-10-01,amazon,I bought laptop last week and it is boring. Contact @support was helpful #happy 😊 SOOOO good!!! Loved it!!!,2
+538,2023-12-11,twitter,Just tried phone — average!    ,3
+539,2023-08-08,amazon,Contact @support was helpful #happy 😊 Overall shoes is awesome.,5
+540,2023-03-10,twitter,Hating app — great!  #review  😊,4
+541,2023-11-17,amazon,My experience with course: average! Check this https://example.com/deal for details.,3
+542,2024-05-26,twitter,Hating app — horrible!    😡,2
+543,2024-04-18,twitter,Hating course — okay!    ,3
+544,2023-10-21,twitter,Just tried mixer — wonderful!    😊,5
+545,2024-03-08,amazon,My experience with mixer: terrible! Check this https://example.cooom/deal for details. Check this https://example.com/deal for details.,1
+546,2024-05-12,amazon,Honestly the phone feels brilliant — Contact @support was helpful #happy 😊 Contact @support was helpful #happy 😊,4
+547,2024-02-11,amazon,SOOOO good!!! Loved it!!! Overall phone is fantastic.,5
+548,2024-09-06,news,Hyderabad FC played excellent football last night,5
+549,2023-10-09,twitter,Hating app — disappointing!    😡,1
+550,2023-05-29,twitter,Just tried phone — awful!    😡,1
+551,2024-11-18,twitter,Hating phone — poor!   https://t.co/xyz 😡,2
+552,2023-01-09,twitter,Hating mixer — fine!    ,3
+553,2023-02-04,news,"concert last night was boring, crowd boring",1
+554,2023-09-25,twitter,Hating book — fantastic!    😊,5
+555,2023-01-04,amazon,<p>Highly recommended!</p> Overall shoes is bad.,1
+556,2024-02-25,twitter,Hating app — boring! @user #review  😡,2
+557,2024-02-29,amazon,My experience with shoes: okay! ,3
+558,2023-07-23,twitter,Hating app — horrible!    😡,2
+559,2024-06-22,twitter,,5
+560,2023-05-14,twitter,Just tried book — okay! @user  https://t.co/xyz ,3
+561,2023-09-26,twitter,Just tried camera — brilliant!    😊,5
+562,2023-08-06,twitter,Loving shoes — okay!   https://t.co/xyz ,3
+563,2024-11-17,amazon,I booought watch last week and it is awful. Delivery was quick.,1
+564,2023-06-23,news,phone battery life is awful,2
+565,2023-10-15,amazon,Honestly the shoes feels okay — Delivery was quick.,3
+566,2024-05-18,amazon,SOOOO good!!! Loved it!!! Overall watch is boring.,1
+567,2024-05-21,amazon,My experience with headphones: fine! Delivery was quick. Delivery was quick.,3
+568,2023-07-04,twitter,Just tried course — poor!    😡,1
+569,2024-11-28,news,parliament passed battery bill amid mixed protests,3
+570,2023-01-06,news,software update fixed budget but battery still poor <p>Highly recommended!</p>,1
+571,2023-02-19,twitter,Just tried app — great!    😊,5
+572,2023-06-16,news,minister promised great reforms for camera Contact @support was helpful #happy 😊,5
+573,2024-11-12,twitter,Hating headphones — horrible! @user   😡,1
+574,2024-09-20,twitter,Just tried camera — poor!    😡,1
+575,2024-10-24,twitter,Loving phone — bad!    😡,2
+576,2024-06-19,amazon,My experience with mixer: okay! Delivery was quick.,3
+577,2023-09-17,twitter,Loving course — mixed! @user #review https://t.co/xyz ,3
+578,2023-11-01,twitter,Loving course — mixed! @user   ,3
+579,2024-09-10,twitter,Just tried book — okay!    ,3
+580,2024-09-08,twitter,Hating course — excellent! @user  https://t.co/xyz 😊,5
+581,2023-01-28,amazon,,1
+582,2023-01-23,twitter,Just tried camera — wonderful!    😊,4
+583,2023-02-22,twitter,Just tried book — wonderful!    😊,5
+584,2024-05-12,twitter,Just tried watch — excellent!    😊,5
+585,2024-04-29,amazon,"Honestly the app feels average — meh, visit www.shop.example? Delivery was quick.",3
+586,2023-12-14,twitter,Hating watch — poor! @user  https://t.co/xyz 😡,1
+587,2023-05-13,news,new web series on match is boring,1
+588,2023-09-25,twitter,,4
+589,2023-12-15,twitter,Loving course — awesome! @user #review  😊,5
+590,2024-04-13,amazon,Check this https://example.com/deal for details. Overall phone is fine.,3
+591,2024-06-02,news,phone battery life is excellent,4
+592,2024-04-30,amazon,,4
+593,2023-08-22,twitter,Loving laptop — decent!    ,3
+594,2024-06-13,twitter,Hating watch — bad!    😡,2
+595,2024-11-07,news,laptooop performance with match is disappointing,1
+596,2024-07-11,news,voters reacted horrible to new laptop policy Contact @support was helpful #happy 😊,1
+597,2023-05-10,amazon, Overall app is okay.,3
+598,2024-07-06,amazon,,2
+599,2023-05-08,amazon,My experience with camera: boring! SOOOO good!!! Loved it!!! Delivery was quick.,1
+600,2024-06-30,twitter,Just tried phone — mixed!    ,3
+601,2023-04-11,news,"the stadium crowd went wild, game was boring",1
+602,2024-07-26,twitter,Hating laptop — bad! @user  https://t.co/xyz 😡,1
+603,2023-05-28,amazon,"My experience with watch: awful! meh, visit www.shop.example?",1
+604,2024-07-26,amazon,"Honestly the book feels okay — meh, visit www.shop.example?",3
+605,2023-10-29,twitter,Just tried watch — excellent! @user   😊,5
+606,2024-07-14,amazon,,4
+607,2023-05-22,twitter,Hating book — great!    😊,5
+608,2024-02-09,amazon,My experience with book: okay! Check this https://example.com/deal for details.,3
+609,2024-07-28,twitter,Just tried book — great!    😊,5
+610,2023-01-20,amazon,Honestly the course feels fantastic — SOOOO good!!! Loved it!!!,5
+611,2023-11-25,twitter,Loving phone — fine!  #review  ,3
+612,2024-07-08,twitter,Hating phone — great!  #review https://t.co/xyz 😊,5
+613,2023-03-01,twitter,Loving mixer — wonderful!  #review  😊,5
+614,2024-08-23,twitter,Hating headphones — excellent!    😊,5
+615,2023-01-20,twitter,,3
+616,2023-07-28,twitter,Just tried laptop — mixed!    ,3
+617,2024-09-27,amazon,Honestly the headphones feels poor — ,1
+618,2024-08-22,twitter,Loving phone — awesome!    😊,5
+619,2024-09-17,news,"election debate on laptop was awesome meh, visit www.shop.example?",4
+620,2023-12-03,amazon, Overall shoes is disappointing.,1
+621,2024-02-07,twitter,Just tried phone — wonderful!  #review https://t.co/xyz 😊,4
+622,2024-02-01,amazon,I bought laptop last week and it is fine. ,3
+623,2023-07-16,twitter,Loving book — amazing!  #review https://t.co/xyz 😊,5
+624,2023-07-20,twitter,Just tried camera — boring!    😡,2
+625,2023-05-12,news,"the movie was awful, songs were awful",2
+626,2024-09-21,amazon,Honestly the headphones feels awful — SOOOO good!!! Loved it!!!,1
+627,2023-10-08,twitter,Hating phone — fine!    ,3
+628,2023-01-06,twitter,Hating book — decent!    ,3
+629,2023-12-04,twitter,Loving app — disappointing!    😡,2
+630,2023-12-15,twitter,Loving book — excellent!  #review  😊,5
+631,2023-03-08,news,parliament passed budget bill amid fantastic protests,4
+632,2024-02-16,amazon,I bought phone last week and it is okay. Contact @support was helpful #happy 😊,3
+633,2024-10-28,twitter,Loving app — bad!    😡,1
+634,2024-06-05,news,software update fixed album but battery still decent SOOOO good!!! Loved it!!!,3
+635,2024-01-02,twitter,Hating app — bad!  #review  😡,1
+636,2023-09-01,twitter,Loving headphones — fine!    ,3
+637,2024-04-23,amazon,My experience with course: great! Contact @support was helpful #happy 😊 Check this https://example.com/deal for details.,4
+638,2023-01-04,amazon,SOOOO good!!! Loved it!!! Overall shoes is mixed.,3
+639,2023-01-07,amazon,Honestly the camera feels okay — Check this https://example.com/deal for details.,3
+640,2023-07-23,twitter,Hating phone — fantastic!  #review  😊,5
+641,2023-01-22,twitter,Loving mixer — awesome!    😊,4
+642,2024-03-20,news,coach praised MI after excellent victory,5
+643,2024-09-22,news,phone battery life is wonderful,5
+644,2024-05-15,amazon,Honestly the course feels boring — Contact @support was helpful #happy 😊,1
+645,2023-11-26,twitter,Hating app — fantastic! @user   😊,5
+646,2023-07-27,amazon,My experience with course: average! <p>Highly recommended!</p>,3
+647,2023-03-28,amazon,Honestly the camera feels horrible — Contact @support was helpful #happy 😊,2
+648,2023-11-21,twitter,Hating camera — decent!    ,3
+649,2023-10-11,twitter,Loving book — amazing!    😊,4
+650,2023-07-15,news,phone battery life is fantastic,4
+651,2024-11-02,amazon,Delivery was quick. Overall headphones is fine.,3
+652,2024-04-17,twitter,Loving watch — decent!    ,3
+653,2023-05-12,twitter,Hating camera — fantastic!    😊,5
+654,2023-01-24,twitter,Hating shoes — amazing!    😊,5
+655,2024-02-05,amazon,Honestly the phone feels wonderful — Contact @support was helpful #happy 😊,5
+656,2023-02-02,twitter,Loving book — horrible! @user   😡,1
+657,2023-12-01,news,,5
+658,2024-03-18,news,actor performance in camera felt awesome,5
+659,2024-09-11,news,new web series on season is mixed,3
+660,2024-09-19,news,voters reacted okay to new phone policy,3
+661,2023-06-11,news,coach praised Hyderabad FC after terrible victory,1
+662,2023-03-20,twitter,Hating laptop — fine!    ,3
+663,2024-01-26,amazon,My experience with course: disappointing! <p>Highly recommended!</p> Check this https://example.com/deal for details.,1
+664,2023-03-26,twitter,Loving watch — horrible! @user   😡,2
+665,2024-07-01,amazon,Honestly the camera feels okay — <p>Highly recommended!</p>,3
+666,2024-03-28,amazon,"I bought headphones last week and it is fantastic. meh, visit www.shop.example?",4
+667,2024-01-19,amazon,"My experience with cooourse: excellent! meh, visit www.shop.example?",4
+668,2024-11-11,news,"cricket match was amazing, India won by 2 runs",4
+669,2024-03-14,twitter,Loving watch — awesome!    😊,5
+670,2023-10-13,twitter,Loving shoes — brilliant!  #review  😊,4
+671,2024-08-05,amazon,I bought shoes last week and it is great. Check this https://example.com/deal for details.,5
+672,2023-11-22,twitter,Just tried shoes — excellent!    😊,5
+673,2024-09-23,news,"the movie was disappointing, songs were disappointing",1
+674,2024-01-20,amazon,"Honestly the laptop feels boring — meh, visit www.shop.example?",1
+675,2024-02-29,twitter,Loving app — great!    😊,4
+676,2023-08-16,amazon,Honestly the mixer feels amazing — ,4
+677,2023-05-25,amazon,Check this https://example.cooom/deal for details. Overall watch is decent.,3
+678,2024-09-12,news,"cricket match was awesome, Hyderabad FC won by 27 runs",5
+679,2024-04-27,twitter,Just tried book — boring!  #review  😡,2
+680,2023-11-04,twitter,Just tried watch — decent!    ,3
+681,2024-04-25,amazon,Honestly the headphones feels fine — Contact @support was helpful #happy 😊,3
+682,2024-01-29,twitter,Loving phone — brilliant!    😊,5
+683,2023-12-23,amazon,My experience with app: fantastic! Delivery was quick.,5
+684,2024-11-23,amazon,"I bought book last week and it is poor. meh, visit www.shop.example?",1
+685,2023-04-05,twitter,,5
+686,2024-06-29,amazon,I bought watch last week and it is horrible. SOOOO good!!! Loved it!!!,1
+687,2023-12-19,amazon,"meh, visit www.shop.example? Overall watch is mixed.",3
+688,2023-06-30,news,parliament passed season bill amid horrible protests Delivery was quick.,1
+689,2023-07-16,twitter,Loving book — wonderful! @user   😊,5
+690,2023-08-29,twitter,Hating app — bad! @user  https://t.co/xyz 😡,1
+691,2023-01-08,amazon,I booought laptop last week and it is amazing. Contact @support was helpful #happy 😊,5
+692,2024-01-05,twitter,Hating book — decent!    ,3
+693,2023-05-23,amazon, Overall watch is great.,5
+694,2024-11-07,twitter,Just tried mixer — excellent!    😊,5
+695,2023-03-25,twitter,Loving shoes — disappointing!    😡,1
+696,2024-05-31,twitter,Just tried laptop — average!   https://t.co/xyz ,3
+697,2024-07-07,twitter,Loving mixer — average!    ,3
+698,2023-09-21,twitter,Loving laptop — brilliant! @user  https://t.co/xyz 😊,5
+699,2023-12-18,amazon,My experience with laptop: wonderful! Delivery was quick.,4
+700,2024-08-29,twitter,Just tried course — horrible!    😡,1
+701,2024-01-09,news,"I love the camera quality, pictures look poor",1
+702,2024-05-26,amazon,Honestly the headphones feels decent — Delivery was quick.,3
+703,2023-05-07,amazon,"Honestly the headphones feels boring — meh, visit www.shop.example?",1
+704,2023-08-19,twitter,Hating camera — mixed!    ,3
+705,2023-12-12,amazon,"My experience with phone: awesome! meh, visit www.shop.example?",5
+706,2023-05-15,twitter,Hating watch — average!    ,3
+707,2023-07-20,twitter,Loving mixer — mixed!  #review https://t.co/xyz ,3
+708,2023-02-27,amazon,"I bought phone last week and it is poor. meh, visit www.shop.example?",2
+709,2023-05-02,twitter,Loving phone — average! @user   ,3
+710,2024-10-27,twitter,Hating app — average!    ,3
+711,2024-08-09,twitter,,3
+712,2024-07-04,amazon,Honestly the laptop feels mixed — <p>Highly recommended!</p>,3
+713,2024-10-29,twitter,Hating course — amazing!    😊,4
+714,2023-07-31,twitter,Just tried laptop — brilliant! @user  https://t.co/xyz 😊,5
+715,2024-11-04,amazon, Overall laptop is fine.,3
+716,2023-12-27,twitter,Loving course — boring!    😡,1
+717,2024-09-08,amazon,"I bought course last week and it is brilliant. meh, visit www.shop.example?",4
+718,2024-04-12,amazon,Check this https://example.com/deal for details. Overall app is poor.,1
+719,2024-01-17,twitter,Just tried watch — awful!  #review  😡,1
+720,2023-04-23,amazon,My experience with course: awesome!  ,4
+721,2023-08-16,amazon,"meh, visit www.shop.example? Overall watch is fantastic. Contact @support was helpful #happy 😊",4
+722,2023-10-16,twitter,Loving headphones — excellent!    😊,5
+723,2024-07-18,amazon,I bought app last week and it is excellent. Check this https://example.com/deal for details.,4
+724,2024-10-16,amazon,Honestly the watch feels average — Contact @support was helpful #happy 😊 SOOOO good!!! Loved it!!!,3
+725,2023-11-09,news,coach praised RCB after okay victory,3
+726,2023-02-28,amazon,My experience with laptop: boring! ,2
+727,2024-11-24,twitter,Just tried book — boring!  #review  😡,2
+728,2024-06-24,news,software update fixed budget but battery still amazing,4
+729,2023-12-28,amazon,"Honestly the phone feels okay — meh, visit www.shop.example?",3
+730,2023-10-28,news,actor performance in script felt horrible,2
+731,2024-09-24,twitter,Just tried app — amazing!    😊,5
+732,2024-05-18,news,laptooop performance with budget is amazing,5
+733,2024-01-09,twitter,Just tried headphones — decent!   https://t.co/xyz ,3
+734,2023-07-23,twitter,Just tried mixer — awesome! @user   😊,4
+735,2023-09-30,twitter,Loving headphones — boring!    😡,1
+736,2024-02-03,twitter,Just tried book — average!    ,3
+737,2023-01-09,twitter,Loving headphones — excellent! @user   😊,4
+738,2023-09-27,twitter,Hating book — boring! @user   😡,1
+739,2023-02-09,news,coach praised India after brilliant victory,5
+740,2023-08-16,twitter,Loving watch — brilliant! @user #review  😊,5
+741,2023-02-18,twitter,Loving course — average!  #review https://t.co/xyz ,3
+742,2023-11-08,twitter,Loving shoes — amazing!    😊,4
+743,2023-09-01,twitter,Just tried course — amazing!  #review  😊,5
+744,2024-11-01,amazon,My experience with camera: mixed! Delivery was quick.,3
+745,2024-03-04,news,coach praised Hyderabad FC after excellent victory,5
+746,2024-05-30,amazon,Contact @support was helpful #happy 😊 Overall mixer is fine.,3
+747,2024-06-29,amazon,Honestly the headphones feels awful — Contact @support was helpful #happy 😊 SOOOO good!!! Loved it!!!,1
+748,2024-06-09,news,the new AI startup raised funding for laptop,3
+749,2023-02-10,amazon, Overall course is awful.,1
+750,2023-12-22,amazon,,4
+751,2024-10-02,amazon,"I bought shoes last week and it is disappointing. meh, visit www.shop.example?",2
+752,2024-10-31,news,parliament passed script bill amid awful protests,1
+753,2024-03-20,twitter,Loving book — fine!    ,3
+754,2023-01-22,twitter,Loving book — average! @user #review  ,3
+755,2023-05-21,twitter,Hating app — awesome! @user #review  😊,5
+756,2023-10-02,amazon,My experience with phooone: excellent! <p>Highly recommended!</p> ,5
+757,2023-06-17,twitter,Loving laptop — amazing!    😊,4
+758,2024-06-07,twitter,Loving camera — average! @user   ,3
+759,2023-04-26,news,new web series on policy is amazing,4
+760,2024-09-11,amazon,I bought laptop last week and it is terrible. Contact @support was helpful #happy 😊,2
+761,2023-04-17,twitter,Just tried shoes — bad!   https://t.co/xyz 😡,1
+762,2024-11-02,twitter,Just tried shoes — average!    ,3
+763,2023-04-03,twitter,Hating book — wonderful!    😊,4
+764,2024-10-31,twitter,Loving watch — wonderful!    😊,5
+765,2023-08-13,news,actor performance in phone felt fine,3
+766,2023-12-24,amazon,I booought camera last week and it is poor. Check this https://example.com/deal for details.,2
+767,2023-05-22,twitter,Hating book — wonderful! @user   😊,5
+768,2023-06-11,twitter,Hating phone — wonderful!   https://t.co/xyz 😊,4
+769,2024-06-24,twitter,Loving laptop — poor!  #review  😡,2
+770,2023-02-02,amazon,"My experience with mixer: average! meh, visit www.shop.example?",3
+771,2024-08-08,amazon,Honestly the headphones feels decent — Delivery was quick.,3
+772,2023-08-13,amazon,Honestly the camera feels bad — Contact @support was helpful #happy 😊,1
+773,2024-10-24,twitter,Just tried laptop — fine!    ,3
+774,2024-09-03,twitter,Loving laptop — awful! @user   😡,1
+775,2024-05-10,twitter,Loving course — boring!    😡,1
+776,2023-05-13,twitter,Loving mixer — disappointing! @user   😡,1
+777,2023-02-08,amazon,"My experience with laptop: disappointing! meh, visit www.shop.example?",1
+778,2023-06-14,twitter,Just tried book — wonderful! @user   😊,4
+779,2024-09-17,news,voters reacted wonderful to new album policy,5
+780,2023-03-31,amazon,My experience with headphones: mixed! Delivery was quick.,3
+781,2024-04-29,amazon,Honestly the book feels disappointing — Contact @support was helpful #happy 😊 Contact @support was helpful #happy 😊,1
+782,2024-10-01,news,new web series on budget is excellent,5
+783,2023-04-18,news,,1
+784,2024-04-21,twitter,Just tried watch — awesome!  #review  😊,5
+785,2024-05-12,twitter,Just tried laptop — awesome!    😊,4
+786,2024-01-25,twitter,Loving mixer — average!    ,3
+787,2023-05-26,twitter,Hating book — poor!  #review https://t.co/xyz 😡,1
+788,2024-03-14,twitter,Loving mixer — horrible!    😡,2
+789,2024-08-07,twitter,Loving camera — boring!    😡,1
+790,2023-11-21,twitter,Just tried app — amazing! @user   😊,4
+791,2023-05-09,twitter,,3
+792,2023-08-03,amazon,I bought app last week and it is excellent. Check this https://example.com/deal for details.,5
+793,2024-07-09,news,laptop performance with battery is poor,2
+794,2024-11-27,twitter,Loving headphones — disappointing!    😡,1
+795,2024-02-26,twitter,,2
+796,2023-04-28,twitter,Loving book — fine!    ,3
+797,2024-01-19,twitter,,3
+798,2024-02-29,amazon,"meh, visit www.shop.example? Overall course is boring.",1
+799,2024-07-23,twitter,Loving shoes — amazing!    😊,4
+800,2023-05-10,news,coach praised RCB after great victory,5
+801,2024-08-30,amazon, Overall app is horrible.,1
+802,2023-08-16,twitter,Loving app — fine!   https://t.co/xyz ,3
+803,2023-04-16,twitter,Loving watch — fine!    ,3
+804,2024-05-17,twitter,Loving headphones — excellent!   https://t.co/xyz 😊,5
+805,2023-11-02,amazon,"My experience with watch: fantastic! meh, visit www.shop.example? meh, visit www.shop.example?",5
+806,2023-01-06,twitter,Just tried app — awesome!   https://t.co/xyz 😊,4
+807,2023-01-31,twitter,Loving camera — awful!    😡,1
+808,2024-05-22,twitter,Loving headphones — terrible!    😡,1
+809,2023-11-16,twitter,Loving mixer — horrible! @user   😡,1
+810,2023-07-24,twitter,Just tried book — brilliant!    😊,4
+811,2024-06-27,amazon,My experience with shoes: fantastic! Check this https://example.com/deal for details.,4
+812,2023-11-18,twitter,Loving headphones — amazing!   https://t.co/xyz 😊,4
+813,2023-08-06,twitter,Just tried phone — disappointing!  #review  😡,1
+814,2024-03-21,amazon,"meh, visit www.shop.example? Overall laptop is fine.",3
+815,2024-08-28,twitter,Loving camera — disappointing! @user  https://t.co/xyz 😡,1
+816,2023-02-07,twitter,Loving mixer — mixed! @user   ,3
+817,2024-09-19,news,laptop performance with camera is amazing,5
+818,2023-01-11,twitter,Just tried book — boring!    😡,2
+819,2023-02-23,twitter,,2
+820,2023-05-22,twitter,Loving phone — great!  #review  😊,5
+821,2024-06-24,amazon, Overall laptop is wonderful. SOOOO good!!! Loved it!!!,5
+822,2024-07-25,twitter,Just tried book — average!    ,3
+823,2024-06-24,news,RCB played fantastic football last night Check this https://example.com/deal for details.,5
+824,2024-09-27,amazon,"My experience with shoes: boring! meh, visit www.shop.example? SOOOO good!!! Loved it!!!",2
+825,2023-04-20,amazon,I bought watch last week and it is brilliant. Contact @support was helpful #happy 😊,5
+826,2023-12-29,amazon,My experience with camera: amazing! Check this https://example.com/deal for details.,5
+827,2023-07-18,twitter,Hating course — wonderful!    😊,5
+828,2023-04-28,twitter,Loving app — horrible!    😡,1
+829,2023-08-14,twitter,Just tried mixer — great!    😊,5
+830,2024-05-30,amazon,Honestly the mixer feels average — Check this https://example.com/deal for details.,3
+831,2023-07-01,news,"concert last night was terrible, crowd terrible",1
+832,2023-08-22,news,the new AI startup raised funding for budget ,4
+833,2024-05-13,amazon,I bought headphones last week and it is wonderful. Delivery was quick.,5
+834,2023-10-04,twitter,Loving shoes — okay!    ,3
+835,2024-03-17,amazon,My experience with phone: wonderful! ,5
+836,2024-06-23,twitter,Loving watch — fantastic!    😊,5
+837,2023-05-06,twitter,Hating watch — poor!    😡,1
+838,2024-09-30,twitter,Just tried shoes — okay!    ,3
+839,2023-11-10,amazon,My experience with headphooones: boring! Contact @support was helpful #happy 😊 Contact @support was helpful #happy 😊,1
+840,2023-03-30,twitter,Just tried phone — poor! @user #review  😡,1
+841,2024-01-31,amazon,My experience with headphones: brilliant! SOOOO good!!! Loved it!!!,4
+842,2023-09-14,twitter,Hating mixer — excellent!  #review  😊,5
+843,2023-04-09,twitter,Loving mixer — fine!    ,3
+844,2024-07-26,twitter,Just tried shoes — okay!    ,3
+845,2023-10-28,twitter,Loving headphones — bad!    😡,1
+846,2024-10-27,twitter,Loving watch — horrible!    😡,2
+847,2023-07-29,twitter,Hating app — excellent!   https://t.co/xyz 😊,5
+848,2024-05-11,amazon,Honestly the course feels average — Check this https://example.com/deal for details.,3
+849,2024-02-05,amazon,,4
+850,2024-11-04,twitter,Hating watch — excellent!  #review  😊,5
+851,2023-10-24,amazon,"I bought watch last week and it is wonderful. Check this https://example.com/deal for details. meh, visit www.shop.example?",4
+852,2023-10-18,twitter,Just tried book — excellent!    😊,5
+853,2023-05-23,amazon,I bought app last week and it is horrible. SOOOO good!!! Loved it!!!,2
+854,2023-03-06,amazon,I bought book last week and it is awful. Check this https://example.com/deal for details.,1
+855,2024-10-22,twitter,Hating app — wonderful!    😊,4
+856,2023-01-31,amazon,Check this https://example.com/deal for details. Overall book is awesome.,5
+857,2023-06-28,news,RCB played excellent football last night,5
+858,2023-01-31,amazon,I bought watch last week and it is bad. Delivery was quick.,1
+859,2024-06-25,news,election debate on match was okay,3
+860,2023-07-09,news,"cricket match was mixed, India won by 27 runs",3
+861,2023-03-10,amazon,Honestly the course feels average —  ,3
+862,2023-08-18,twitter,Loving app — horrible! @user   😡,1
+863,2024-07-13,news,minister promised horrible reforms for album SOOOO good!!! Loved it!!!,2
+864,2023-07-29,amazon,My experience with laptooop: mixed! Contact @support was helpful #happy 😊,3
+865,2024-03-02,amazon,Honestly the shoes feels great — <p>Highly recommended!</p> SOOOO good!!! Loved it!!!,5
+866,2023-11-07,amazon,My experience with app: fantastic! Check this https://example.cooom/deal for details.,4
+867,2024-07-19,amazon,I bought camera last week and it is amazing. Delivery was quick.,5
+868,2023-12-27,amazon,Honestly the watch feels horrible — <p>Highly recommended!</p>,1
+869,2023-01-16,twitter,Loving camera — bad!    😡,2
+870,2024-02-12,news,"cricket match was fantastic, MI won by 57 runs",5
+871,2024-03-30,amazon,I bought laptop last week and it is fantastic. Contact @support was helpful #happy 😊,5
+872,2024-02-25,amazon, Overall shoes is fine.,3
+873,2023-05-26,amazon,Delivery was quick. Overall app is average. Check this https://example.com/deal for details.,3
+874,2023-03-28,twitter,Just tried book — terrible!   https://t.co/xyz 😡,1
+875,2023-11-09,twitter,Hating phone — horrible!   https://t.co/xyz 😡,1
+876,2024-09-28,twitter,Loving app — poor!    😡,2
+877,2024-03-10,twitter,Just tried phone — bad!    😡,1
+878,2024-11-29,amazon,Check this https://example.com/deal for details. Overall app is decent.,3
+879,2023-05-08,news,the new AI startup raised funding for season Contact @support was helpful #happy 😊,3
+880,2024-02-23,twitter,Hating headphones — disappointing!  #review https://t.co/xyz 😡,1
+881,2023-08-21,twitter,Hating app — fantastic!    😊,4
+882,2023-08-22,amazon,Honestly the headphones feels great — Delivery was quick.,5
+883,2024-03-30,twitter,Hating phone — awful!    😡,2
+884,2023-12-01,twitter,Loving camera — fantastic!    😊,5
+885,2023-06-03,amazon,"My experience with shoes: disappointing! meh, visit www.shop.example?",1
+886,2024-10-26,news,phone battery life is brilliant,5
+887,2023-02-22,twitter,Loving app — fantastic!    😊,5
+888,2024-01-06,amazon,My experience with course: decent! Contact @support was helpful #happy 😊,3
+889,2024-01-06,twitter,Just tried laptop — disappointing!    😡,1
+890,2024-02-22,amazon,My experience with app: terrible! ,1
+891,2023-07-22,amazon,Contact @support was helpful #happy 😊 Overall headphones is awful.,2
+892,2023-06-20,news,"the movie was awesome, songs were awesome",4
+893,2023-04-21,news,coach praised MI after bad victory,2
+894,2024-06-05,news,phone battery life is poor,1
+895,2023-04-10,twitter,Just tried app — amazing!    😊,5
+896,2023-07-02,twitter,Hating phone — average!    ,3
+897,2023-06-23,news,the new AI startup raised funding for laptop,1
+898,2023-02-10,twitter,Just tried laptop — awful!   https://t.co/xyz 😡,2
+899,2023-04-23,news,"cricket match was average, CSK won by 27 runs",3
+900,2023-03-22,amazon,My experience with laptop: okay! <p>Highly recommended!</p>,3
+901,2023-11-19,amazon,Check this https://example.com/deal for details. Overall camera is fantastic.,5
+902,2024-01-21,news,,4
+903,2023-08-08,news,MI played awful football last night,2
+904,2023-12-24,twitter,Hating course — fantastic!   https://t.co/xyz 😊,5
+905,2023-08-13,amazon,Honestly the headphones feels boring — Contact @support was helpful #happy 😊,1
+906,2023-05-12,twitter,Hating book — boring!   https://t.co/xyz 😡,1
+907,2023-11-27,amazon,"My experience with book: average! meh, visit www.shop.example?",3
+908,2023-02-16,twitter,Hating watch — disappointing!    😡,1
+909,2024-07-06,twitter,Loving app — bad!    😡,2
+910,2024-07-02,twitter,Hating laptop — amazing!    😊,5
+911,2023-01-14,twitter,Just tried watch — awesome!  #review  😊,5
+912,2023-02-04,twitter,Just tried laptop — amazing!   https://t.co/xyz 😊,4
+913,2024-03-01,twitter,Hating watch — excellent! @user   😊,4
+914,2023-01-24,twitter,Just tried headphones — fine! @user   ,3
+915,2024-05-09,twitter,Loving laptop — okay!    ,3
+916,2024-08-14,twitter,Just tried camera — fine!    ,3
+917,2024-05-16,news,new web series on album is okay,3
+918,2024-02-26,amazon,My experience with laptop: wonderful! SOOOO good!!! Loved it!!!,5
+919,2024-07-12,twitter,Loving phone — disappointing!    😡,2
+920,2023-03-21,amazon,"My experience with camera: disappointing! meh, visit www.shop.example?",2
+921,2024-06-21,twitter,Loving course — amazing!  #review  😊,5
+922,2024-09-21,amazon,My experience with course: bad! Delivery was quick.,2
+923,2023-05-19,news,MI played boring football last night,2
+924,2024-07-04,twitter,Loving shoes — average!  #review https://t.co/xyz ,3
+925,2023-10-19,amazon,,5
+926,2023-09-27,news,"concert last night was poor, crowd poor",1
+927,2024-04-29,amazon,My experience with headphones: decent! Contact @support was helpful #happy 😊,3
+928,2023-02-23,twitter,Loving camera — amazing! @user  https://t.co/xyz 😊,4
+929,2023-11-16,twitter,Hating book — okay!   https://t.co/xyz ,3
+930,2023-12-23,news,election debate on script was brilliant,5
+931,2023-01-11,twitter,Hating shoes — poor!  #review  😡,2
+932,2023-02-04,twitter,Just tried camera — poor! @user  https://t.co/xyz 😡,1
+933,2024-04-27,amazon,"I bought book last week and it is horrible. meh, visit www.shop.example?",1
+934,2023-03-26,news,actor performance in phone felt awesome,5
+935,2023-01-18,twitter,Loving book — excellent!  #review https://t.co/xyz 😊,5
+936,2024-11-16,twitter,Just tried headphones — disappointing!    😡,2
+937,2023-01-04,twitter,Just tried headphones — brilliant!  #review  😊,4
+938,2023-03-30,twitter,Hating laptop — fine!    ,3
+939,2024-11-28,twitter,Just tried phone — mixed!    ,3
+940,2023-10-07,amazon,Delivery was quick. Overall camera is wonderful.,4
+941,2023-06-24,news,"the stadium crowd went wild, game was awful",1
+942,2024-05-30,twitter,Hating headphones — mixed!  #review  ,3
+943,2024-08-23,amazon,Hooonestly the mixer feels fantastic — Contact @support was helpful #happy 😊 Contact @support was helpful #happy 😊,4
+944,2023-12-11,twitter,Hating app — mixed!   https://t.co/xyz ,3
+945,2024-03-21,amazon,Contact @support was helpful #happy 😊 Overall laptop is awesome. SOOOO good!!! Loved it!!!,4
+946,2024-06-03,amazon,"meh, visit www.shop.example? Overall book is terrible.",1
+947,2023-07-23,twitter,Hating app — bad!  #review  😡,2
+948,2023-11-05,news,India played disappointing football last night,1
+949,2023-04-13,twitter,,5
+950,2023-05-17,amazon,"My experience with watch: brilliant! meh, visit www.shop.example?",4
+951,2023-07-02,twitter,,2
+952,2023-07-12,amazon,SOOOO good!!! Loved it!!! Overall shoes is poor.,2
+953,2024-03-07,twitter,Hating laptop — boring!    😡,1
+954,2023-01-13,twitter,Just tried course — horrible!   https://t.co/xyz 😡,1
+955,2023-09-22,twitter,Just tried course — wonderful!    😊,5
+956,2024-06-28,amazon, Overall laptop is okay.,3
+957,2024-03-21,amazon,I bought laptop last week and it is wonderful. Contact @support was helpful #happy 😊,4
+958,2023-01-25,twitter,Loving laptop — boring!   https://t.co/xyz 😡,1
+959,2024-02-10,amazon,<p>Highly recommended!</p> Overall headphones is boring. Contact @support was helpful #happy 😊,1
+960,2024-06-20,twitter,Just tried laptop — fantastic! @user #review  😊,5
+961,2023-03-22,amazon,Contact @support was helpful #happy 😊 Overall phone is fantastic. SOOOO good!!! Loved it!!!,5
+962,2023-04-30,twitter,Hating watch — boring! @user   😡,2
+963,2024-03-23,amazon,SOOOO good!!! Loved it!!! Overall app is awful.,2
+964,2024-02-29,twitter,,5
+965,2024-09-18,amazon,My experience with mixer: awful! SOOOO good!!! Loved it!!!,1
+966,2024-03-31,twitter,Just tried watch — okay!    ,3
+967,2024-07-28,twitter,Loving course — average!    ,3
+968,2024-03-01,news,the new AI startup raised funding for album,3
+969,2024-08-07,news,laptop performance with phone is fine,3
+970,2024-11-11,twitter,Just tried watch — awesome!    😊,5
+971,2023-12-09,news,voters reacted terrible to new match policy,1
+972,2024-09-26,amazon,My experience with headphones: excellent! SOOOO good!!! Loved it!!!,5
+973,2024-09-07,amazon,My experience with laptop: mixed! Delivery was quick.,3
+974,2024-08-14,news,new web series on phone is awesome,4
+975,2023-06-13,amazon,Honestly the camera feels okay —  <p>Highly recommended!</p>,3
+976,2024-07-04,twitter,Loving phone — fantastic!    😊,5
+977,2024-02-14,twitter,Just tried phone — fine!   https://t.co/xyz ,3
+978,2024-01-11,amazon,My experience with course: okay!  Check this https://example.com/deal for details.,3
+979,2023-09-08,twitter,Loving camera — disappointing!  #review https://t.co/xyz 😡,1
+980,2023-10-23,amazon,My experience with shoes: boring! Contact @support was helpful #happy 😊,1
+981,2023-06-08,twitter,Just tried shoes — poor!    😡,1
+982,2023-09-23,amazon, Overall headphones is wonderful.,4
+983,2024-01-19,twitter,Just tried course — decent!   https://t.co/xyz ,3
+984,2023-07-31,twitter,Just tried headphones — average!    ,3
+985,2024-06-20,twitter,Just tried laptop — awful!    😡,2
+986,2024-04-02,news,"the stadium crowd went wild, game was great SOOOO good!!! Loved it!!!",5
+987,2023-02-11,amazon, Overall camera is terrible.,1
+988,2023-02-22,news,minister promised fantastic reforms for policy,4
+989,2024-08-18,twitter,Loving book — fantastic! @user #review https://t.co/xyz 😊,5
+990,2024-09-07,twitter,,5
+991,2024-05-30,twitter,Hating course — awesome!    😊,4
+992,2023-11-08,twitter,Loving headphones — okay!    ,3
+993,2024-04-28,twitter,Hating course — okay!  #review https://t.co/xyz ,3
+994,2023-06-10,twitter,Just tried camera — boring!  #review https://t.co/xyz 😡,2
+995,2023-05-29,twitter,Hating app — decent!    ,3
+996,2023-12-29,twitter,Just tried shoes — poor!    😡,2
+997,2024-03-13,amazon,Delivery was quick. Overall headphones is okay.,3
+998,2024-08-30,amazon,Honestly the shoes feels fine —  SOOOO good!!! Loved it!!!,3
+999,2024-01-14,amazon,My experience with phone: horrible! Check this https://example.com/deal for details.,1
+1000,2023-11-03,twitter,Loving book — boring! @user   😡,1
+1001,2023-05-24,amazon,My experience with course: fantastic! Check this https://example.com/deal for details.,5
+1002,2024-11-24,amazon, Overall laptop is disappointing.,1
+1003,2023-01-17,news,minister promised amazing reforms for script,4
+1004,2024-07-25,amazon, Overall phone is decent.,3
+1005,2023-10-11,amazon,I bought course last week and it is awesome. SOOOO good!!! Loved it!!!,5
+1006,2023-01-22,amazon,I bought headphones last week and it is disappointing. Check this https://example.com/deal for details.,2
+1007,2023-12-01,twitter,Loving app — boring!  #review  😡,1
+1008,2024-09-08,amazon,"meh, visit www.shop.example? Overall camera is mixed.",3
+1009,2023-08-11,news,the new AI startup raised funding for album,3
+1010,2024-04-02,amazon,My experience with phone: wonderful! Delivery was quick.,5
+1011,2023-08-03,twitter,Loving watch — brilliant!  #review  😊,5
+1012,2024-06-04,twitter,Just tried app — average!    ,3
+1013,2024-10-29,twitter,Loving phone — okay!    ,3
+1014,2023-07-01,twitter,Just tried watch — fantastic!  #review  😊,5
+1015,2024-01-16,amazon,Honestly the headphones feels decent — Check this https://example.com/deal for details.,3
+1016,2023-04-23,amazon,Honestly the headphones feels bad — Check this https://example.com/deal for details.,2
+1017,2023-01-30,amazon,,3
+1018,2023-03-09,news,the new AI startup raised funding for battery,1
+1019,2023-09-21,twitter,Hating watch — average!   https://t.co/xyz ,3
+1020,2023-05-27,twitter,Hating app — fine!  #review  ,3
+1021,2024-04-18,twitter,Just tried laptop — fantastic!    😊,4
+1022,2024-01-30,amazon, Overall course is decent.,3
+1023,2023-12-19,amazon,,4
+1024,2023-12-12,twitter,Hating book — mixed!    ,3
+1025,2023-03-06,twitter,Hating shoes — awesome!    😊,5
+1026,2023-11-11,amazon,Honestly the watch feels amazing — Delivery was quick.,4
+1027,2023-07-23,amazon,Honestly the course feels fantastic — <p>Highly recommended!</p>,5
+1028,2024-06-27,amazon,Honestly the shoes feels decent — SOOOO good!!! Loved it!!!,3
+1029,2024-03-10,twitter,Loving headphones — awesome!    😊,5
+1030,2024-07-23,news,,2
+1031,2023-09-06,amazon,I bought camera last week and it is fantastic. ,5
+1032,2023-05-07,twitter,Just tried watch — awesome!  #review  😊,4
+1033,2024-10-05,amazon,Honestly the app feels wonderful — <p>Highly recommended!</p> Contact @support was helpful #happy 😊,4
+1034,2023-10-06,amazon," Overall camera is okay. meh, visit www.shop.example?",3
+1035,2023-04-01,news,software update fixed camera but battery still awful,1
+1036,2024-03-05,news,parliament passed match bill amid average protests,3
+1037,2024-05-14,amazon,I bought mixer last week and it is poor. Delivery was quick. ,1
+1038,2023-09-02,amazon,My experience with app: horrible! Delivery was quick.,2
+1039,2024-10-05,twitter,Hating phone — bad!    😡,1
+1040,2023-09-17,amazon,"Honestly the watch feels amazing — SOOOO good!!! Loved it!!! meh, visit www.shop.example?",4
+1041,2024-07-25,twitter,Hating camera — poor!    😡,2
+1042,2023-08-22,amazon,My experience with course: disappointing! ,2
+1043,2023-12-26,twitter,Loving laptop — boring!    😡,1
+1044,2024-07-27,twitter,Hating headphones — okay!   https://t.co/xyz ,3
+1045,2023-12-29,amazon,Honestly the watch feels fantastic — Delivery was quick. SOOOO good!!! Loved it!!!,5
+1046,2023-10-08,twitter,Loving mixer — horrible!    😡,2
+1047,2024-09-18,twitter,Just tried camera — terrible!  #review  😡,1
+1048,2024-01-08,amazon,Honestly the book feels bad — <p>Highly recommended!</p> SOOOO good!!! Loved it!!!,2
+1049,2024-07-05,news,voters reacted poor to new album policy,2
+1050,2024-07-21,amazon,My experience with laptop: decent! SOOOO good!!! Loved it!!!,3
+1051,2024-10-27,news,,2
+1052,2024-09-04,twitter,Hating headphones — poor! @user   😡,1
+1053,2024-02-21,amazon,"Honestly the headphones feels horrible — meh, visit www.shop.example?",1
+1054,2024-09-20,twitter,Just tried app — fine!  #review  ,3
+1055,2024-05-21,twitter,Just tried headphones — bad!  #review  😡,1
+1056,2023-12-18,amazon,I bought shoes last week and it is fantastic. <p>Highly recommended!</p>,5
+1057,2024-10-10,twitter,Hating headphones — boring!    😡,1
+1058,2024-06-25,twitter,,3
+1059,2023-07-06,twitter,Hating mixer — disappointing! @user   😡,2
+1060,2024-03-31,amazon,Honestly the shoes feels excellent — SOOOO good!!! Loved it!!!,5
+1061,2024-05-24,twitter,Just tried laptop — great!    😊,4
+1062,2023-12-13,twitter,Just tried shoes — wonderful!    😊,5
+1063,2024-08-28,twitter,Loving book — wonderful! @user   😊,5
+1064,2023-05-19,twitter,Loving shoes — decent!    ,3
+1065,2024-05-24,twitter,Hating watch — brilliant!    😊,5
+1066,2023-01-29,news,election debate on battery was decent,3
+1067,2024-06-04,twitter,Hating camera — boring!    😡,1
+1068,2024-09-19,twitter,Loving laptop — great!  #review  😊,4
+1069,2023-08-22,twitter,Loving laptop — horrible!  #review  😡,2
+1070,2024-10-03,twitter,Loving headphones — horrible! @user #review  😡,1
+1071,2024-10-03,twitter,Hating phone — awful!    😡,2
+1072,2024-07-03,amazon,"Honestly the phone feels okay — meh, visit www.shop.example?",3
+1073,2023-07-26,twitter,Just tried watch — awful!    😡,2
+1074,2024-03-22,news,new web series ooon laptop is wonderful Check this https://example.com/deal for details.,5
+1075,2023-02-14,amazon,My experience with book: wonderful! SOOOO good!!! Loved it!!!,5
+1076,2023-03-07,amazon,Check this https://example.com/deal for details. Overall headphones is disappointing.,1
+1077,2023-11-22,twitter,Hating book — brilliant! @user   😊,5
+1078,2023-08-28,twitter,Hating course — fantastic!   https://t.co/xyz 😊,5
+1079,2024-10-26,twitter,Just tried phone — amazing!   https://t.co/xyz 😊,4
+1080,2023-06-06,news,actor performance in budget felt boring,2
+1081,2023-01-22,amazon,Honestly the shoes feels terrible — Contact @support was helpful #happy 😊,2
+1082,2024-02-20,twitter,Loving phone — boring!    😡,1
+1083,2023-08-11,twitter,Hating book — bad!    😡,1
+1084,2023-04-22,amazon,<p>Highly recommended!</p> Overall app is brilliant.,5
+1085,2024-03-29,amazon,My experience with book: boring! Delivery was quick. Contact @support was helpful #happy 😊,1
+1086,2023-07-22,twitter,Hating app — brilliant!    😊,5
+1087,2023-02-06,twitter,Hating camera — disappointing!  #review  😡,2
+1088,2023-06-04,amazon,I bought laptop last week and it is fantastic. Delivery was quick.,4
+1089,2023-06-05,news,election debate on budget was poor,1
+1090,2023-04-27,twitter,Just tried app — excellent!    😊,5
+1091,2024-01-07,amazon,I bought headphones last week and it is okay.  <p>Highly recommended!</p>,3
+1092,2023-06-03,news,coach praised Hyderabad FC after amazing victory,4
+1093,2024-08-27,twitter,Just tried shoes — brilliant!    😊,5
+1094,2023-09-02,twitter,Hating mixer — awesome! @user   😊,5
+1095,2024-10-01,amazon,"My experience with mixer: okay! Contact @support was helpful #happy 😊 meh, visit www.shop.example?",3
+1096,2024-06-08,twitter,Loving mixer — mixed!    ,3
+1097,2023-11-23,news,actor performance in script felt disappointing,1
+1098,2023-01-14,news,,5
+1099,2023-05-05,amazon,Honestly the shoes feels fantastic — SOOOO good!!! Loved it!!!,5
+1100,2024-02-01,twitter,Loving laptop — wonderful! @user  https://t.co/xyz 😊,5
+1101,2023-03-04,twitter,Loving book — decent!    ,3
+1102,2023-03-19,twitter,Loving laptop — decent! @user #review https://t.co/xyz ,3
+1103,2023-12-20,twitter,Loving headphones — disappointing!    😡,2
+1104,2024-03-16,amazon,Contact @support was helpful #happy 😊 Overall course is amazing.,4
+1105,2023-11-23,twitter,Loving laptop — okay!    ,3
+1106,2023-12-28,amazon,My experience with book: poor! Contact @support was helpful #happy 😊,1
+1107,2023-05-23,twitter,Hating watch — okay!    ,3
+1108,2023-01-17,amazon,My experience with watch: wonderful! Contact @support was helpful #happy 😊 ,5
+1109,2024-09-13,twitter,Hating shoes — wonderful! @user  https://t.co/xyz 😊,5
+1110,2023-10-24,amazon,Hooonestly the watch feels bad — <p>Highly recommended!</p>,1
+1111,2023-05-05,twitter,Hating camera — decent!  #review  ,3
+1112,2024-01-14,amazon,,1
+1113,2023-12-06,twitter,Hating camera — brilliant!    😊,5
+1114,2024-06-07,amazon,,1
+1115,2023-10-10,news,new web series on camera is disappointing,1
+1116,2023-11-24,amazon,My experience with shoooes: great! Check this https://example.com/deal for details.,5
+1117,2023-07-19,amazon,Honestly the shoes feels fine — ,3
+1118,2023-01-30,amazon,Honestly the course feels boring — ,1
+1119,2023-11-18,amazon,<p>Highly recommended!</p> Overall watch is fantastic.,5
+1120,2023-12-01,twitter,,1
+1121,2023-02-05,amazon, Overall shoes is wonderful.,5
+1122,2023-06-17,amazon,"I bought shoes last week and it is mixed. SOOOO good!!! Loved it!!! meh, visit www.shop.example?",3
+1123,2023-06-08,news,"cricket match was poor, CSK won by 11 runs",1
+1124,2023-08-19,amazon,My experience with laptop: brilliant! Check this https://example.com/deal for details. ,4
+1125,2024-06-06,amazon,Honestly the phone feels terrible — Check this https://example.com/deal for details.,1
+1126,2024-08-18,amazon,,4
+1127,2023-12-09,news,coach praised Hyderabad FC after brilliant victory,5
+1128,2023-04-26,twitter,Hating laptop — awful!    😡,2
+1129,2024-01-05,twitter,Just tried camera — excellent!    😊,5
+1130,2024-02-02,amazon,Check this https://example.com/deal for details. Overall camera is mixed.,3
+1131,2023-04-20,amazon,Honestly the book feels horrible — <p>Highly recommended!</p>,2
+1132,2024-03-09,news,"I love the camera quality, pictures look great",5
+1133,2023-07-29,amazon,<p>Highly recommended!</p> Overall shoes is fantastic.,4
+1134,2024-07-30,twitter,Hating headphones — amazing! @user #review  😊,5
+1135,2024-08-13,amazon,I booought headphones last week and it is brilliant. <p>Highly recommended!</p>,5
+1136,2023-02-15,news,laptop performance with phone is boring,2
+1137,2024-07-18,news,actor performance in battery felt terrible,1
+1138,2024-05-21,amazon,My experience with shoes: poor! Check this https://example.com/deal for details.,2
+1139,2024-11-27,amazon,My experience with watch: poor! Delivery was quick.,1
+1140,2024-08-10,twitter,Hating course — great!   https://t.co/xyz 😊,4
+1141,2024-07-17,twitter,,5
+1142,2023-08-13,amazon,"<p>Highly recommended!</p> Overall headphones is terrible. meh, visit www.shop.example?",2
+1143,2024-05-31,amazon,"Honestly the watch feels excellent — meh, visit www.shop.example?",5
+1144,2023-07-15,amazon,"I bought book last week and it is wonderful. meh, visit www.shop.example?",5
+1145,2024-11-08,twitter,Hating laptop — amazing!    😊,4
+1146,2023-02-02,twitter,Hating watch — boring!    😡,2
+1147,2023-12-26,amazon,"meh, visit www.shop.example? Overall shoes is amazing.",5
+1148,2024-01-24,news,"the movie was horrible, songs were horrible",2
+1149,2023-05-12,amazon,,3
+1150,2023-02-19,amazon,My experience with phone: decent! Delivery was quick.,3
+1151,2023-06-08,twitter,Just tried course — excellent!    😊,4
+1152,2023-12-15,news,the new AI startup raised funding for phone,3
+1153,2024-03-16,news,new web series on camera is okay,3
+1154,2023-09-27,twitter,Just tried shoes — decent!  #review  ,3
+1155,2023-09-27,news,voters reacted horrible to new laptop policy Delivery was quick.,1
+1156,2023-03-03,amazon,,3
+1157,2023-08-07,amazon,SOOOO good!!! Loved it!!! Overall phone is excellent.,5
+1158,2024-06-06,twitter,Hating book — average!  #review  ,3
+1159,2023-09-26,twitter,Hating course — fantastic!  #review https://t.co/xyz 😊,5
+1160,2023-05-11,twitter,Loving shoes — bad!  #review  😡,1
+1161,2023-03-28,amazon,Honestly the course feels bad — Check this https://example.com/deal for details.,1
+1162,2023-12-01,amazon,Contact @support was helpful #happy 😊 Overall headphones is great.,5
+1163,2024-06-13,news,actor performance in budget felt horrible,1
+1164,2023-07-15,amazon,Contact @support was helpful #happy 😊 Overall laptop is awful.,2
+1165,2023-05-23,twitter,Loving shoes — boring!    😡,2
+1166,2023-07-30,news,parliament passed laptop bill amid poor protests,2
+1167,2024-09-12,amazon,My experience with shoes: awesome! Contact @support was helpful #happy 😊,4
+1168,2024-08-20,twitter,Hating course — excellent!  #review https://t.co/xyz 😊,5
+1169,2023-02-25,news,new web series on battery is awful <p>Highly recommended!</p>,1
+1170,2024-08-03,twitter,Hating laptop — fantastic!    😊,5
+1171,2023-12-29,twitter,Hating app — excellent!    😊,4
+1172,2024-09-20,news,"cricket match was fine, CSK won by 29 runs",3
+1173,2024-11-18,news,,5
+1174,2024-09-21,twitter,Just tried watch — mixed!  #review  ,3
+1175,2024-09-22,amazon,Check this https://example.com/deal for details. Overall phone is fine.,3
+1176,2023-11-18,twitter,Just tried camera — okay!    ,3
+1177,2023-03-08,twitter,Loving mixer — awful!    😡,2
+1178,2023-08-23,amazon,Contact @support was helpful #happy 😊 Overall phone is horrible.,2
+1179,2024-01-09,twitter,Hating headphones — awful! @user   😡,2
+1180,2024-03-22,twitter,Loving headphones — terrible! @user  https://t.co/xyz 😡,2
+1181,2023-06-30,twitter,Loving watch — awesome!    😊,4
+1182,2023-07-03,twitter,Hating headphones — average!   https://t.co/xyz ,3
+1183,2024-06-09,amazon,"meh, visit www.shop.example? Overall book is fine. SOOOO good!!! Loved it!!!",3
+1184,2024-04-10,news,software update fixed script but battery still wonderful,5
+1185,2024-05-16,twitter,Just tried camera — excellent! @user  https://t.co/xyz 😊,5
+1186,2024-02-19,amazon,My experience with watch: fine! SOOOO good!!! Loved it!!!,3
+1187,2023-04-29,amazon,Honestly the course feels bad — SOOOO good!!! Loved it!!!,1
+1188,2023-05-31,amazon,My experience with watch: horrible! Contact @support was helpful #happy 😊,1
+1189,2024-04-22,twitter,Just tried headphones — mixed!    ,3
+1190,2023-02-24,amazon,My experience with shoooes: brilliant! Check this https://example.com/deal for details.,5
+1191,2023-03-11,twitter,Just tried watch — horrible! @user   😡,1
+1192,2024-06-17,twitter,,5
+1193,2024-03-24,twitter,Hating shoes — okay!    ,3
+1194,2024-01-22,amazon,"I bought watch last week and it is decent. meh, visit www.shop.example?",3
+1195,2023-01-13,twitter,Just tried mixer — okay! @user  https://t.co/xyz ,3
+1196,2023-09-29,news,coach praised RCB after mixed victory,3
+1197,2024-01-17,amazon,My experience with laptop: terrible! Check this https://example.com/deal for details.,1
+1198,2023-10-06,news,minister promised disappointing reforms for laptop,1
+1199,2024-07-22,twitter,Hating book — decent!   https://t.co/xyz ,3
+1200,2023-11-03,twitter,Loving book — terrible!    😡,1
+1201,2024-02-29,twitter,Just tried book — awesome!    😊,5
+1202,2024-03-16,amazon,Delivery was quick. Overall phone is disappointing.,2
+1203,2024-03-14,news,parliament passed album bill amid awesome protests,4
+1204,2024-01-01,amazon,I booought laptop last week and it is wonderful. Delivery was quick.,4
+1205,2023-07-16,amazon,Hooonestly the laptop feels great — Contact @support was helpful #happy 😊,5
+1206,2024-09-12,amazon,I bought watch last week and it is average. Contact @support was helpful #happy 😊,3
+1207,2023-11-10,news,"cricket match was average, MI won by 37 runs",3
+1208,2023-03-02,twitter,Hating camera — horrible!    😡,1
+1209,2024-03-21,amazon,"I bought laptop last week and it is wonderful. <p>Highly recommended!</p> meh, visit www.shop.example?",5
+1210,2023-02-20,twitter,Just tried app — fine!    ,3
+1211,2024-03-08,twitter,Hating headphones — awful!    😡,2
+1212,2023-05-24,amazon,I bought app last week and it is awesome. ,5
+1213,2023-01-03,twitter,Hating camera — average!    ,3
+1214,2024-08-27,twitter,Loving camera — decent! @user   ,3
+1215,2024-04-12,amazon,My experience with app: brilliant! ,5
+1216,2024-08-08,twitter,Loving watch — disappointing!   https://t.co/xyz 😡,1
+1217,2023-09-29,twitter,Just tried camera — disappointing!    😡,1
+1218,2024-07-13,twitter,Loving camera — terrible!    😡,2
+1219,2024-07-28,news,"I love the camera quality, pictures look boring",1
+1220,2023-09-22,amazon,,3
+1221,2024-07-09,twitter,Just tried mixer — boring!    😡,1
+1222,2023-07-03,amazon,Honestly the laptop feels fantastic —  Delivery was quick.,4
+1223,2023-12-31,twitter,Hating laptop — okay!    ,3
+1224,2023-03-06,amazon,My experience with shoes: awesome!  Contact @support was helpful #happy 😊,5
+1225,2024-03-18,twitter,,2
+1226,2024-11-03,twitter,Hating camera — decent! @user   ,3
+1227,2024-03-01,news,actooor performance in album felt horrible Check this https://example.com/deal for details.,2
+1228,2024-07-18,amazon,My experience with phone: disappointing! Delivery was quick. Delivery was quick.,1
+1229,2023-02-26,amazon,I bought shoes last week and it is excellent. ,4
+1230,2023-01-27,news,"the stadium crowd went wild, game was horrible",1
+1231,2023-07-07,news,parliament passed script bill amid fantastic protests,4
+1232,2024-07-16,amazon,Honestly the app feels fantastic — Delivery was quick.,5
+1233,2023-04-20,news,minister promised excellent reforms for match Contact @support was helpful #happy 😊,4
+1234,2024-08-05,news,software update fixed match but battery still poor,1
+1235,2024-02-22,amazon,My experience with laptop: amazing! Check this https://example.com/deal for details.,5
+1236,2023-07-17,twitter,Hating app — decent!   https://t.co/xyz ,3
+1237,2024-05-24,news,minister promised wonderful reforms for match,5
+1238,2023-05-16,twitter,Hating app — excellent! @user  https://t.co/xyz 😊,4
+1239,2023-04-24,amazon,"I bought camera last week and it is terrible. meh, visit www.shop.example? <p>Highly recommended!</p>",2
+1240,2024-06-15,news,software update fixed album but battery still excellent,4
+1241,2023-10-08,amazon,Honestly the book feels brilliant — Check this https://example.com/deal for details.,5
+1242,2023-10-22,twitter,Loving watch — awful!  #review  😡,1
+1243,2023-07-25,twitter,Loving watch — awful!    😡,1
+1244,2024-07-18,amazon,My experience with mixer: average! Contact @support was helpful #happy 😊 Check this https://example.com/deal for details.,3
+1245,2024-02-18,amazon,"meh, visit www.shop.example? Overall headphones is excellent.",4
+1246,2024-06-26,twitter,Loving camera — mixed!    ,3
+1247,2023-09-15,news,"the mooovie was wonderful, songs were wonderful",4
+1248,2023-07-20,amazon,"Honestly the mixer feels mixed — meh, visit www.shop.example?",3
+1249,2023-05-21,news,election debate on album was disappointing,1
+1250,2023-08-08,twitter,Loving book — great!   https://t.co/xyz 😊,5
+1251,2023-12-15,twitter,Loving mixer — excellent! @user  https://t.co/xyz 😊,4
+1252,2024-05-16,news,phone battery life is awful,2
+1253,2024-07-23,news,coach praised India after disappointing victory,2
+1254,2023-08-03,amazon,"I bought phone last week and it is excellent. meh, visit www.shop.example?",4
+1255,2023-11-03,twitter,Hating phone — boring!  #review https://t.co/xyz 😡,2
+1256,2023-06-11,news,new web series ooon script is fantastic,4
+1257,2024-08-28,twitter,Hating laptop — wonderful!   https://t.co/xyz 😊,5
+1258,2023-08-08,news,voters reacted awesome to new budget policy,5
+1259,2024-06-30,news,the new AI startup raised funding for season,2
+1260,2024-09-13,news,"I love the camera quality, pictures look average",3
+1261,2024-05-17,amazon,I bought laptop last week and it is terrible. Contact @support was helpful #happy 😊,1
+1262,2024-11-28,news,Hyderabad FC played terrible football last night,1
+1263,2023-06-18,twitter,Loving phone — disappointing!    😡,2
+1264,2024-09-11,amazon,"I bought app last week and it is fantastic. meh, visit www.shop.example? ",5
+1265,2023-06-01,twitter,Hating shoes — wonderful!  #review  😊,5
+1266,2023-02-13,amazon,My experience with app: fine! Contact @support was helpful #happy 😊,3
+1267,2023-12-16,twitter,Loving course — average!  #review  ,3
+1268,2024-01-14,twitter,Hating course — decent! @user  https://t.co/xyz ,3
+1269,2023-09-04,amazon,Honestly the shoes feels boring — ,1
+1270,2023-05-09,twitter,Hating app — fine!    ,3
+1271,2023-09-22,twitter,Loving laptop — awful!    😡,2
+1272,2023-05-25,news,coach praised Hyderabad FC after average victory,3
+1273,2024-03-05,amazon,Honestly the app feels boring — SOOOO good!!! Loved it!!!,1
+1274,2024-10-08,amazon,My experience with headphones: poor! Check this https://example.com/deal for details. ,1
+1275,2023-10-28,twitter,Hating mixer — poor!  #review  😡,2
+1276,2023-01-24,twitter,Just tried laptop — amazing!    😊,5
+1277,2024-09-16,amazon,Honestly the laptop feels poor — SOOOO good!!! Loved it!!!,1
+1278,2024-08-24,news,laptop performance with season is great,5
+1279,2023-05-07,twitter,Hating camera — excellent!   https://t.co/xyz 😊,5
+1280,2024-02-21,amazon,"Honestly the app feels brilliant — SOOOO good!!! Loved it!!! meh, visit www.shop.example?",4
+1281,2023-01-11,news,phone battery life is decent,3
+1282,2024-10-14,news,"cricket match was amazing, India won by 43 runs Check this https://example.com/deal for details.",5
+1283,2023-12-21,amazon,"I bought mixer last week and it is boring. meh, visit www.shop.example?",2
+1284,2023-08-25,twitter,Loving mixer — great!    😊,5
+1285,2024-06-01,twitter,Hating phone — average!    ,3
+1286,2024-06-16,twitter,Hating mixer — terrible!   https://t.co/xyz 😡,2
+1287,2024-06-15,amazon,I bought phone last week and it is poor. ,1
+1288,2024-01-05,amazon,My experience with laptop: wonderful! ,5
+1289,2023-12-15,twitter,Loving watch — fantastic! @user   😊,5
+1290,2024-09-28,twitter,Just tried course — bad! @user   😡,1
+1291,2023-07-18,twitter,Hating mixer — decent!  #review  ,3
+1292,2023-04-15,twitter,Hating course — terrible!    😡,2
+1293,2023-01-17,amazon,I bought book last week and it is amazing. SOOOO good!!! Loved it!!!,5
+1294,2024-01-20,amazon,Honestly the book feels awful — <p>Highly recommended!</p>,2
+1295,2023-10-29,news,voters reacted fantastic to new laptop policy,5
+1296,2023-08-17,twitter,Hating app — decent!   https://t.co/xyz ,3
+1297,2024-10-17,twitter,Hating watch — wonderful!   https://t.co/xyz 😊,5
+1298,2024-11-09,twitter,Loving book — bad! @user #review  😡,1
+1299,2024-02-22,amazon,"Honestly the shoes feels terrible — meh, visit www.shop.example?",2
+1300,2024-03-20,news,the new AI startup raised funding for budget,3
+1301,2024-03-12,amazon,,3
+1302,2023-06-02,twitter,Loving course — wonderful!    😊,4
+1303,2024-06-10,twitter,,1
+1304,2024-09-18,twitter,Hating laptop — horrible!  #review  😡,1
+1305,2023-02-25,twitter,Loving laptop — amazing!  #review  😊,4
+1306,2023-10-14,amazon,Honestly the headphones feels decent — ,3
+1307,2024-02-26,twitter,Hating book — average!   https://t.co/xyz ,3
+1308,2023-02-18,amazon,Delivery was quick. Overall app is wonderful.,5
+1309,2024-01-02,news,laptop performance with match is amazing Check this https://example.com/deal for details.,5
+1310,2024-11-25,amazon,<p>Highly recommended!</p> Overall headphones is brilliant. SOOOO good!!! Loved it!!!,5
+1311,2024-08-10,twitter,Loving watch — awesome! @user   😊,5
+1312,2023-05-25,news,"the movie was brilliant, songs were brilliant",4
+1313,2023-05-26,news,election debate on match was excellent,4
+1314,2024-06-15,news,new web series on camera is awesome,5
+1315,2023-04-28,news,new web series on laptop is mixed,3
+1316,2024-03-14,news,"the stadium crowd went wild, game was bad",2
+1317,2023-01-16,twitter,Hating book — excellent!    😊,4
+1318,2024-02-07,twitter,Hating course — amazing! @user  https://t.co/xyz 😊,4
+1319,2024-10-28,amazon,SOOOO good!!! Loved it!!! Overall shoes is amazing.,5
+1320,2024-11-29,amazon,Honestly the headphones feels fantastic — Contact @support was helpful #happy 😊,5
+1321,2023-02-04,twitter,Just tried app — bad!    😡,1
+1322,2023-10-18,news,coach praised CSK after awful victory,1
+1323,2024-07-11,twitter,Just tried book — fine!   https://t.co/xyz ,3
+1324,2024-09-20,twitter,Hating camera — horrible!   https://t.co/xyz 😡,1
+1325,2023-06-07,twitter,Hating app — okay!   https://t.co/xyz ,3
+1326,2023-09-01,news,"the stadium crowd went wild, game was decent",3
+1327,2023-06-21,twitter,Loving shoes — awful!    😡,1
+1328,2024-09-18,twitter,Loving shoes — fine!   https://t.co/xyz ,3
+1329,2024-07-13,twitter,Just tried headphones — terrible!    😡,2
+1330,2024-02-03,news,laptop performance with script is horrible,2
+1331,2024-05-31,twitter,Loving watch — mixed!  #review  ,3
+1332,2023-11-25,twitter,,2
+1333,2023-04-26,amazon,"Honestly the mixer feels awful — Delivery was quick. meh, visit www.shop.example?",2
+1334,2023-10-28,news,new web series on policy is great,4
+1335,2024-06-21,amazon,Honestly the shoes feels disappointing — Delivery was quick. Check this https://example.com/deal for details.,2
+1336,2023-03-31,twitter,Hating shoes — bad! @user   😡,2
+1337,2023-05-15,twitter,Loving book — poor!    😡,1
+1338,2023-12-05,amazon,Check this https://example.com/deal for details. Overall phone is awful.,2
+1339,2023-06-21,amazon,I bought watch last week and it is bad. Contact @support was helpful #happy 😊,2
+1340,2023-11-21,twitter,Just tried shoes — disappointing!    😡,2
+1341,2023-05-20,amazon,Honestly the app feels boring — SOOOO good!!! Loved it!!! SOOOO good!!! Loved it!!!,2
+1342,2023-04-29,news,phone battery life is great,4
+1343,2024-11-29,amazon,Honestly the shoes feels fantastic — Delivery was quick.,5
+1344,2023-08-16,twitter,Hating course — boring!    😡,1
+1345,2024-01-13,twitter,Just tried mixer — okay!  #review https://t.co/xyz ,3
+1346,2023-07-24,twitter,Just tried camera — fantastic!  #review  😊,5
+1347,2024-07-20,amazon,I booought phone last week and it is boring. Delivery was quick.,1
+1348,2024-05-06,amazon,Honestly the phone feels fine — ,3
+1349,2024-11-16,amazon,<p>Highly recommended!</p> Overall mixer is poor. Check this https://example.com/deal for details.,1
+1350,2023-03-06,amazon,"Honestly the watch feels fine — meh, visit www.shop.example? Delivery was quick.",3
+1351,2023-01-30,amazon,My experience with camera: brilliant! ,5
+1352,2023-12-01,twitter,Loving app — awesome!    😊,5
+1353,2024-08-14,amazon,Check this https://example.com/deal for details. Overall app is fantastic.,5
+1354,2023-10-24,news,"the stadium crowd went wild, game was fine",3
+1355,2024-04-02,twitter,Just tried shoes — amazing!    😊,5
+1356,2024-06-23,amazon,I bought app last week and it is okay. Check this https://example.com/deal for details.,3
+1357,2023-05-18,news,the new AI startup raised funding for album,3
+1358,2024-06-15,amazon,Honestly the watch feels great — Check this https://example.com/deal for details. Delivery was quick.,5
+1359,2024-07-01,amazon,"meh, visit www.shop.example? Overall app is okay. meh, visit www.shop.example?",3
+1360,2023-11-25,twitter,Loving camera — great! @user   😊,5
+1361,2023-06-21,twitter,Hating headphones — fantastic!    😊,5
+1362,2023-07-21,amazon,I bought app last week and it is poor. Delivery was quick.,2
+1363,2023-06-11,news,actor performance in policy felt fantastic,5
+1364,2023-04-18,twitter,Hating book — okay!  #review https://t.co/xyz ,3
+1365,2023-09-12,twitter,Loving laptop — awesome!  #review https://t.co/xyz 😊,4
+1366,2023-11-05,twitter,Loving mixer — brilliant!    😊,5
+1367,2023-01-09,amazon,Check this https://example.cooom/deal for details. Overall laptop is wonderful. Contact @support was helpful #happy 😊,5
+1368,2023-12-25,amazon,Honestly the shoes feels wonderful — SOOOO good!!! Loved it!!!,5
+1369,2023-04-10,amazon,,4
+1370,2023-08-06,twitter,Loving headphones — okay!    ,3
+1371,2024-09-05,news,election debate on battery was wonderful,4
+1372,2023-04-20,amazon,My experience with booook: fantastic! <p>Highly recommended!</p>,4
+1373,2024-02-20,twitter,Loving phone — awful!    😡,1
+1374,2023-09-10,news,"concert last night was bad, crowd bad",1
+1375,2023-08-01,twitter,Loving mixer — excellent!  #review https://t.co/xyz 😊,4
+1376,2024-06-13,twitter,Just tried camera — bad! @user   😡,1
+1377,2023-02-13,twitter,Hating laptop — poor! @user #review  😡,2
+1378,2023-10-10,twitter,Loving phone — excellent!  #review https://t.co/xyz 😊,4
+1379,2023-12-30,amazon,Hooonestly the camera feels horrible — Delivery was quick.,1
+1380,2024-09-13,twitter,Just tried mixer — bad!  #review  😡,2
+1381,2024-05-01,twitter,Hating watch — okay!   https://t.co/xyz ,3
+1382,2024-04-02,twitter,Hating watch — great!  #review  😊,5
+1383,2024-07-30,amazon,"Delivery was quick. Overall book is excellent. meh, visit www.shop.example?",4
+1384,2024-05-28,amazon,I bought mixer last week and it is mixed. Contact @support was helpful #happy 😊,3
+1385,2023-07-23,twitter,Hating app — mixed!    ,3
+1386,2024-05-11,amazon,My experience with book: excellent! <p>Highly recommended!</p>,4
+1387,2024-06-11,twitter,Hating book — great!  #review  😊,5
+1388,2024-11-07,amazon,I booought app last week and it is boring. SOOOO good!!! Loved it!!!,2
+1389,2024-11-12,twitter,Hating phone — brilliant!    😊,4
+1390,2024-08-21,amazon,I bought mixer last week and it is excellent. Check this https://example.com/deal for details.,5
+1391,2024-06-04,twitter,Loving laptop — wonderful!    😊,5
+1392,2024-06-09,twitter,Just tried watch — fantastic!   https://t.co/xyz 😊,5
+1393,2024-03-04,amazon,,3
+1394,2023-06-11,amazon,Honestly the book feels fantastic —  SOOOO good!!! Loved it!!!,5
+1395,2024-11-17,amazon," Overall book is mixed. meh, visit www.shop.example?",3
+1396,2023-02-15,news,"the movie was awful, songs were awful",2
+1397,2023-04-20,amazon,Honestly the course feels terrible — <p>Highly recommended!</p>,1
+1398,2024-01-21,amazon,My experience with booook: mixed! Check this https://example.com/deal for details.,3
+1399,2023-12-13,twitter,Just tried mixer — terrible!    😡,1
+1400,2023-08-16,twitter,,4
+1401,2024-06-23,twitter,Just tried course — horrible!  #review  😡,1
+1402,2023-09-12,twitter,Loving watch — mixed! @user  https://t.co/xyz ,3
+1403,2023-09-18,twitter,Loving watch — awesome! @user #review  😊,5
+1404,2023-05-29,twitter,Loving watch — decent!   https://t.co/xyz ,3
+1405,2024-04-26,twitter,Hating shoes — excellent!    😊,4
+1406,2023-01-03,amazon,"Honestly the book feels fantastic — meh, visit www.shop.example?",5
+1407,2024-02-08,news,new web series on season is excellent,4
+1408,2024-07-16,amazon,My experience with mixer: fine! SOOOO good!!! Loved it!!!,3
+1409,2023-04-24,twitter,Hating app — decent!   https://t.co/xyz ,3
+1410,2023-02-15,twitter,Just tried app — wonderful!  #review  😊,5
+1411,2024-03-07,twitter,Hating laptop — fantastic!    😊,5
+1412,2024-11-02,twitter,,1
+1413,2023-10-08,amazon,SOOOO good!!! Loved it!!! Overall mixer is wonderful.,4
+1414,2023-11-19,amazon,My experience with course: bad! <p>Highly recommended!</p>,1
+1415,2024-06-02,twitter,Hating book — poor!    😡,1
+1416,2023-02-25,news,software update fixed policy but battery still wonderful,5
+1417,2023-06-05,twitter,Just tried app — disappointing!   https://t.co/xyz 😡,1
+1418,2023-07-01,twitter,Hating book — okay!    ,3
+1419,2023-01-07,twitter,Loving shoes — excellent!    😊,4
+1420,2023-03-23,amazon,I bought course last week and it is amazing. <p>Highly recommended!</p>,5
+1421,2024-03-11,twitter,Hating phone — poor!   https://t.co/xyz 😡,2
+1422,2024-01-31,twitter,Loving phone — excellent!    😊,5
+1423,2023-11-29,news,software update fixed album but battery still fine,3
+1424,2023-03-20,news,minister promised great reforms for battery,5
+1425,2023-03-28,twitter,Loving book — brilliant!    😊,5
+1426,2024-07-22,amazon,"Honestly the watch feels brilliant — meh, visit www.shop.example?",5
+1427,2023-09-10,amazon,My experience with headphones: fantastic! Contact @support was helpful #happy 😊,4
+1428,2023-08-24,news,minister promised brilliant reforms for battery,5
+1429,2023-09-18,news,phone battery life is excellent,5
+1430,2023-08-11,twitter,Hating mixer — poor!    😡,1
+1431,2023-05-31,amazon,"I bought course last week and it is excellent. meh, visit www.shop.example?",5
+1432,2023-06-08,amazon, Overall course is decent.,3
+1433,2024-09-04,news,laptop performance with phone is disappointing ,1
+1434,2024-08-04,amazon,Honestly the watch feels awful — Contact @support was helpful #happy 😊 Check this https://example.com/deal for details.,1
+1435,2024-06-11,amazon,My experience with headphones: excellent! Delivery was quick.,5
+1436,2024-01-24,news,India played wonderful football last night,4
+1437,2023-10-30,twitter,,5
+1438,2024-08-26,twitter,Loving mixer — horrible! @user   😡,1
+1439,2024-08-25,amazon,<p>Highly recommended!</p> Overall phone is average.,3
+1440,2023-10-13,twitter,Loving phone — excellent! @user  https://t.co/xyz 😊,5
+1441,2024-02-07,news,actor performance in album felt fantastic,5
+1442,2024-04-25,news,election debate on policy was fantastic,5
+1443,2024-09-28,twitter,Hating course — amazing!    😊,4
+1444,2024-06-25,twitter,Just tried book — horrible!    😡,1
+1445,2023-08-31,news,"the movie was poor, songs were poor",1
+1446,2023-07-11,twitter,Loving watch — fantastic!    😊,5
+1447,2024-01-05,twitter,Loving course — boring!    😡,2
+1448,2023-03-18,twitter,Loving book — disappointing!   https://t.co/xyz 😡,1
+1449,2024-05-03,twitter,Loving mixer — fine! @user   ,3
+1450,2023-04-18,twitter,Loving book — mixed! @user   ,3
+1451,2023-01-01,news,minister promised poor reforms for phone,1
+1452,2023-08-05,amazon,"I bought phone last week and it is great. meh, visit www.shop.example?",5
+1453,2024-06-13,news,voters reacted awesome to new laptop policy,5
+1454,2024-01-18,twitter,Just tried book — awful!  #review  😡,2
+1455,2023-07-02,twitter,,4
+1456,2023-07-24,news,phone battery life is disappointing,2
+1457,2024-05-31,twitter,Loving watch — okay!   https://t.co/xyz ,3
+1458,2024-08-09,amazon,"meh, visit www.shop.example? Overall mixer is fine.",3
+1459,2024-06-11,twitter,Hating headphones — bad!    😡,2
+1460,2023-07-07,news,new web series ooon laptop is boring Contact @support was helpful #happy 😊,1
+1461,2024-02-20,twitter,Loving shoes — boring!    😡,2
+1462,2023-11-07,news,"the movie was bad, songs were bad",1
+1463,2024-04-04,news,parliament passed seasooon bill amid horrible protests Contact @support was helpful #happy 😊,2
+1464,2023-11-29,amazon,<p>Highly recommended!</p> Overall shoes is fantastic. SOOOO good!!! Loved it!!!,5
+1465,2024-06-03,twitter,Just tried mixer — average!    ,3
+1466,2024-01-15,news,,5
+1467,2023-01-11,news,minister promised fantastic reforms for script,5
+1468,2024-11-01,twitter,Just tried phone — bad! @user #review  😡,1
+1469,2024-03-29,amazon,"My experience with app: awful! meh, visit www.shop.example?",1
+1470,2023-03-09,amazon,I bought headphones last week and it is okay. Contact @support was helpful #happy 😊,3
+1471,2023-05-10,twitter,Hating app — horrible!    😡,2
+1472,2024-09-22,news,coach praised Hyderabad FC after great victory Contact @support was helpful #happy 😊,5
+1473,2023-03-14,amazon,Contact @support was helpful #happy 😊 Overall headphones is fine.,3
+1474,2023-03-17,twitter,Hating app — bad!  #review https://t.co/xyz 😡,2
+1475,2023-08-12,amazon,Delivery was quick. Overall book is average.,3
+1476,2023-06-10,amazon,SOOOO good!!! Loved it!!! Overall app is boring.,1
+1477,2023-07-08,twitter,Loving headphones — amazing!   https://t.co/xyz 😊,4
+1478,2023-11-12,twitter,Just tried mixer — okay! @user #review https://t.co/xyz ,3
+1479,2023-01-06,twitter,Loving phone — excellent!  #review https://t.co/xyz 😊,5
+1480,2023-05-20,amazon,My experience with cooourse: fine! SOOOO good!!! Loved it!!!,3
+1481,2024-08-02,amazon,<p>Highly recommended!</p> Overall phone is boring.,2
+1482,2023-01-09,news,the new AI startup raised funding for budget,3
+1483,2023-04-28,news,coach praised Hyderabad FC after poor victory,2
+1484,2024-11-07,twitter,Loving camera — poor!   https://t.co/xyz 😡,2
+1485,2024-05-30,twitter,Just tried laptop — poor!    😡,1
+1486,2023-04-07,twitter,Hating shoes — fine!  #review  ,3
+1487,2023-03-10,twitter,Loving phone — decent!    ,3
+1488,2024-06-10,amazon,My experience with watch: wonderful! Check this https://example.com/deal for details.,5
+1489,2024-11-09,twitter,Loving phone — average! @user   ,3
+1490,2024-01-04,news,laptop performance with season is fantastic,5
+1491,2023-06-02,amazon,"Hooonestly the camera feels amazing — meh, visit www.shop.example?",4
+1492,2023-05-14,twitter,Loving book — wonderful!   https://t.co/xyz 😊,5
+1493,2023-08-25,amazon,I bought watch last week and it is disappointing. <p>Highly recommended!</p>,2
+1494,2023-04-02,news,actor performance in album felt okay,3
+1495,2023-01-30,twitter,Hating mixer — fantastic!    😊,4
+1496,2023-01-15,twitter,Hating laptop — fine!   https://t.co/xyz ,3
+1497,2023-08-28,amazon, Overall shoes is horrible.,2
+1498,2024-03-27,amazon,My experience with headphones: fantastic! Contact @support was helpful #happy 😊,4
+1499,2023-06-22,news,new web series ooon budget is boring,1
+1500,2024-11-01,twitter,Loving laptop — bad!  #review  😡,1
