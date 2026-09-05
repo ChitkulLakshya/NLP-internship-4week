@@ -5,3 +5,5 @@
 - data: add week3 1200 sentiment+entities
 
 - feat(trend): LDA, KMeans and drift curves
+
+- data: add week4 1800 timestamped docs
