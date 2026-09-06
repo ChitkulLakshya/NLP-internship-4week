@@ -9,3 +9,5 @@
 - data: add week4 1800 timestamped docs
 
 - feat(docs): week1 DOCX builder
+
+- feat(docs): week2 DOCX builder
