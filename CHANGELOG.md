@@ -7,3 +7,5 @@
 - feat(trend): LDA, KMeans and drift curves
 
 - data: add week4 1800 timestamped docs
+
+- feat(docs): week1 DOCX builder
