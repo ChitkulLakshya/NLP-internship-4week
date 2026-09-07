@@ -13,3 +13,5 @@
 - feat(docs): week2 DOCX builder
 
 - feat(docs): week3 DOCX builder
+
+- feat(docs): week4 DOCX builder
