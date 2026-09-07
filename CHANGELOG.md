@@ -17,3 +17,5 @@
 - feat(docs): week4 DOCX builder
 
 - fix(docs): percent-format crash in report builder
+
+- test: preprocessing + pipeline tests green
