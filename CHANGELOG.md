@@ -19,3 +19,5 @@
 - fix(docs): percent-format crash in report builder
 
 - test: preprocessing + pipeline tests green
+
+- docs: 200-word portal descriptions
