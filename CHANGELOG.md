@@ -21,3 +21,5 @@
 - test: preprocessing + pipeline tests green
 
 - docs: 200-word portal descriptions
+
+- chore: pin requirements, gitignore, README polish
