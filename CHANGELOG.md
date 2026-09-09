@@ -23,3 +23,5 @@
 - docs: 200-word portal descriptions
 
 - chore: pin requirements, gitignore, README polish
+
+- chore: progress update 1 — logs, comments and figure polish
