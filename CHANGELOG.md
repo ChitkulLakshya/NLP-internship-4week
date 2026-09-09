@@ -25,3 +25,5 @@
 - chore: pin requirements, gitignore, README polish
 
 - chore: progress update 1 — logs, comments and figure polish
+
+- chore: progress update 2 — logs, comments and figure polish
