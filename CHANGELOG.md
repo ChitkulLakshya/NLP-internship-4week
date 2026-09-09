@@ -27,3 +27,5 @@
 - chore: progress update 1 — logs, comments and figure polish
 
 - chore: progress update 2 — logs, comments and figure polish
+
+- chore: progress update 3 — logs, comments and figure polish
