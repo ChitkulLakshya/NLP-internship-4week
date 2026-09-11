@@ -33,3 +33,5 @@
 - chore: progress update 4 — logs, comments and figure polish
 
 - chore: progress update 5 — logs, comments and figure polish
+
+- chore: progress update 6 — logs, comments and figure polish
