@@ -47,3 +47,5 @@
 - [feature/week1-eda] eda: term-frequency tables
 
 - [feature/week1-eda] eda: bigram chart tuning
+
+- [feature/week1-eda] eda: noise audit docs
