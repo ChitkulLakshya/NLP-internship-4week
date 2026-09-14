@@ -49,3 +49,5 @@
 - [feature/week1-eda] eda: bigram chart tuning
 
 - [feature/week1-eda] eda: noise audit docs
+
+- [feature/week1-eda] pre: emoji token retention note
