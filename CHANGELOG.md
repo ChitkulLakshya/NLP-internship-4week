@@ -43,3 +43,11 @@
 - chore: progress update 9 — logs, comments and figure polish
 
 - chore: progress update 10 — logs, comments and figure polish
+
+- [feature/week1-eda] eda: term-frequency tables
+
+- [feature/week1-eda] eda: bigram chart tuning
+
+- [feature/week1-eda] eda: noise audit docs
+
+- [feature/week1-eda] pre: emoji token retention note
