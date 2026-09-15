@@ -53,3 +53,5 @@
 - [feature/week1-eda] pre: emoji token retention note
 
 - [feature/text-cleaner] fix(pre): None-safe cleaning
+
+- [feature/text-cleaner] fix(pre): hashtag keep-word
