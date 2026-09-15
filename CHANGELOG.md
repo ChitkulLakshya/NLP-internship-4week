@@ -55,3 +55,5 @@
 - [feature/text-cleaner] fix(pre): None-safe cleaning
 
 - [feature/text-cleaner] fix(pre): hashtag keep-word
+
+- [feature/text-cleaner] test(pre): cleaner edge cases
