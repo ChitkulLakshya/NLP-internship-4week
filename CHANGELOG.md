@@ -57,3 +57,5 @@
 - [feature/text-cleaner] fix(pre): hashtag keep-word
 
 - [feature/text-cleaner] test(pre): cleaner edge cases
+
+- [feature/week2-classifier] clf: stratified 5-fold harness
