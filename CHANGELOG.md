@@ -51,3 +51,9 @@
 - [feature/week1-eda] eda: noise audit docs
 
 - [feature/week1-eda] pre: emoji token retention note
+
+- [feature/text-cleaner] fix(pre): None-safe cleaning
+
+- [feature/text-cleaner] fix(pre): hashtag keep-word
+
+- [feature/text-cleaner] test(pre): cleaner edge cases
