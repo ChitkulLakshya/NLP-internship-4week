@@ -63,3 +63,5 @@
 - [feature/week2-classifier] clf: confusion matrices
 
 - [feature/week2-classifier] clf: per-class report tables
+
+- [feature/week2-classifier] perf(clf): 5k vocab tuning
