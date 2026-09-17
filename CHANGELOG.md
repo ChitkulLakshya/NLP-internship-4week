@@ -59,3 +59,5 @@
 - [feature/text-cleaner] test(pre): cleaner edge cases
 
 - [feature/week2-classifier] clf: stratified 5-fold harness
+
+- [feature/week2-classifier] clf: confusion matrices
