@@ -61,3 +61,5 @@
 - [feature/week2-classifier] clf: stratified 5-fold harness
 
 - [feature/week2-classifier] clf: confusion matrices
+
+- [feature/week2-classifier] clf: per-class report tables
