@@ -57,3 +57,11 @@
 - [feature/text-cleaner] fix(pre): hashtag keep-word
 
 - [feature/text-cleaner] test(pre): cleaner edge cases
+
+- [feature/week2-classifier] clf: stratified 5-fold harness
+
+- [feature/week2-classifier] clf: confusion matrices
+
+- [feature/week2-classifier] clf: per-class report tables
+
+- [feature/week2-classifier] perf(clf): 5k vocab tuning
