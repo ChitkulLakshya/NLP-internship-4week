@@ -67,3 +67,5 @@
 - [feature/week2-classifier] perf(clf): 5k vocab tuning
 
 - [feature/week3-sentiment] sent: negation contraction fix
+
+- [feature/week3-sentiment] sent: TF-IDF 4k tuning
