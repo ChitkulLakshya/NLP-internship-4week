@@ -69,3 +69,5 @@
 - [feature/week3-sentiment] sent: negation contraction fix
 
 - [feature/week3-sentiment] sent: TF-IDF 4k tuning
+
+- [feature/week3-sentiment] docs: sentiment error analysis
