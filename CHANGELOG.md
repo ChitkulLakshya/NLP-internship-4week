@@ -65,3 +65,9 @@
 - [feature/week2-classifier] clf: per-class report tables
 
 - [feature/week2-classifier] perf(clf): 5k vocab tuning
+
+- [feature/week3-sentiment] sent: negation contraction fix
+
+- [feature/week3-sentiment] sent: TF-IDF 4k tuning
+
+- [feature/week3-sentiment] docs: sentiment error analysis
