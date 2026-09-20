@@ -75,3 +75,5 @@
 - [feature/week3-ner] ner: rupees/USD variants
 
 - [feature/week3-ner] ner: overlap longest-first
+
+- [feature/week3-ner] test(ner): exact-match tests
