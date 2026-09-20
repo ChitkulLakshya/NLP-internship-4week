@@ -73,3 +73,5 @@
 - [feature/week3-sentiment] docs: sentiment error analysis
 
 - [feature/week3-ner] ner: rupees/USD variants
+
+- [feature/week3-ner] ner: overlap longest-first
