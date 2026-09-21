@@ -71,3 +71,9 @@
 - [feature/week3-sentiment] sent: TF-IDF 4k tuning
 
 - [feature/week3-sentiment] docs: sentiment error analysis
+
+- [feature/week3-ner] ner: rupees/USD variants
+
+- [feature/week3-ner] ner: overlap longest-first
+
+- [feature/week3-ner] test(ner): exact-match tests
