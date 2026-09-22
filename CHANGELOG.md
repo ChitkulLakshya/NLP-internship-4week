@@ -79,3 +79,5 @@
 - [feature/week3-ner] test(ner): exact-match tests
 
 - [feature/week4-trends] trend: monthly sort fix
+
+- [feature/week4-trends] trend: silhouette logging
