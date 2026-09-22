@@ -81,3 +81,5 @@
 - [feature/week4-trends] trend: monthly sort fix
 
 - [feature/week4-trends] trend: silhouette logging
+
+- [feature/week4-trends] trend: AI-surge annotation
