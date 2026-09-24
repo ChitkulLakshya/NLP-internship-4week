@@ -89,3 +89,5 @@
 - [feature/testing] test: integration week3/4
 
 - [feature/testing] test: silence seaborn warning
+
+- [feature/reports] docs: embed 20 figures
