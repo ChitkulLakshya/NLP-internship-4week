@@ -85,3 +85,7 @@
 - [feature/week4-trends] trend: AI-surge annotation
 
 - [feature/week4-trends] docs: trend implications
+
+- [feature/testing] test: integration week3/4
+
+- [feature/testing] test: silence seaborn warning
