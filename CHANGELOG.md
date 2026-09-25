@@ -93,3 +93,5 @@
 - [feature/reports] docs: embed 20 figures
 
 - [feature/reports] docs: reproducibility appendix
+
+- [feature/polish] docs: results table
