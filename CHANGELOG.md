@@ -95,3 +95,5 @@
 - [feature/reports] docs: reproducibility appendix
 
 - [feature/polish] docs: results table
+
+- [feature/polish] chore: submission checklist
