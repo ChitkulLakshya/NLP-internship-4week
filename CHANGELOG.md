@@ -93,3 +93,7 @@
 - [feature/reports] docs: embed 20 figures
 
 - [feature/reports] docs: reproducibility appendix
+
+- [feature/polish] docs: results table
+
+- [feature/polish] chore: submission checklist
