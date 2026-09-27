@@ -99,3 +99,5 @@
 - [feature/polish] chore: submission checklist
 
 - chore: progress update 11 — logs, comments and figure polish
+
+- chore: progress update 12 — logs, comments and figure polish
