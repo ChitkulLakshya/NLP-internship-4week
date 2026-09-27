@@ -97,3 +97,5 @@
 - [feature/polish] docs: results table
 
 - [feature/polish] chore: submission checklist
+
+- chore: progress update 11 — logs, comments and figure polish
