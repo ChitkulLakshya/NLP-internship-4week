@@ -111,3 +111,5 @@
 - chore: progress update 16 — logs, comments and figure polish
 
 - chore: progress update 17 — logs, comments and figure polish
+
+- chore: progress update 18 — logs, comments and figure polish
