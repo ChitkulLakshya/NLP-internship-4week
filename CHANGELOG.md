@@ -122,3 +122,6 @@
 
 - docs: final verification — 14 tests green, 4 DOCX open clean
 
+
+- chore: submission pack ready — reports, figures, metrics
+
