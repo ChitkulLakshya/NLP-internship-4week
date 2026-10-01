@@ -119,3 +119,6 @@
 - chore: progress update 20 — logs, comments and figure polish
 
 - chore: progress update 21 — logs, comments and figure polish
+
+- docs: final verification — 14 tests green, 4 DOCX open clean
+
